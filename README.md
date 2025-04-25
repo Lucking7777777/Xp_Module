@@ -1,10 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>XP模块合集</title>
-    <style>
-	</script>
+
 </head>
 <body><h2 id='说明资源均来自酷安午夜神'>说明：资源均来自<a target="_blank" rel="noopener" href='http://www.coolapk.com/u/462071'>【酷安】午夜神</a></h2>
 <blockquote><h1 id='蓝奏云网盘统一密码ojbk'>蓝奏云网盘统一密码：<code>OJBK</code></h1>
