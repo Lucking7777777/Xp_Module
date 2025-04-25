@@ -1,1397 +1,800 @@
-说明：资源均来自【酷安】午夜神
-蓝奏云网盘统一密码：OJBK
-更新合集 ：点击查看 请我喝瓶可乐支持一下：打赏 T.G电报频道：OJBK2333
-20220220142638Aicy775.png
-
-【MAGISK】面具稳定版
-卡刷包和管理器版本号最好一致，以免出现不必要的问题。
-
-面具卡刷包： 点击查看
-
-面具管理器： 点击查看
-
-【MAGISK】面具金丝雀版(Canary)
-卡刷包和管理器版本号最好一致，以免出现不必要的问题。
-
-金丝雀版管理器：点击查看
-
-金丝雀版卡刷包：点击查看
-
-Shamiko(隐藏MagiskHide)：点击查看
-
-【MAGISK】面具阿尔法版(alpha)
-作者：vvb2060，基于金丝雀版本制作，加入其它新特性
-
-卡刷包和管理器版本号最好一致，以免出现不必要的问题。
-
-阿尔法版管理器：点击查看
-
-阿尔法版卡刷包：点击查看
-
-Shamiko(隐藏MagiskHide)：点击查看
-
-【MAGISK】面具管理器德尔塔版(Delta)
-作者：magisk分支由HUSKYDG大神制作
-
-内置救砖保护、核心模式开关、多开应用hide、未加密F2FS优化、模块挂载增强
-
-卡刷包和管理器版本号最好一致，以免出现不必要的问题。
-
-德尔塔版管理器：点击查看
-
-德尔塔版卡刷包：点击查看
-
-【MAGISK】面具lite版
-发布之初只作为root管理器，不提供对模块的支持。不过后面的版本作者又恢复了模块支持，白名单模式的Magisk，所有应用程序默认隐藏，只有勾选的应用程序才能获得超级用户权限
-
-卡刷包和管理器版本号最好一致，以免出现不必要的问题。
-
-lite版面具管理器：点击查看
-
-lite版面具卡刷包：点击查看
-
-面具自定义通道：点击查看
-
-面具字体： 筑紫𝐀丸： 点击查看
-
-面具模块合集：点击查看
-
-2022-02-02_14-27-30776778.png
-
-【LSPOSED】框架-(安卓8.1-12)
-Riru模块： 点击查看
-
-LSPosed正式版：点击查看
-
-LSPosed测试版： 点击查看
-
-安卓8.0可用版本：点击查看
-
-IMG_20220220_144538780.png
-
-【EDXPOSED】框架-(安卓8.0-11)
-EDxposed管理器(分支美化版)： 点击查看
-
-EdXposed管理器(官方正式版)： 点击查看
-
-EdXposed管理器(官方先行版)：点击查看
-
-Riru模块： 点击查看
-
-Edxposed阿尔法(S版)： 点击查看
-
-Edxposed阿尔法(Y版)： 点击查看
-
-Edxposed金丝雀(S版和Y版)： 点击查看
-
-IMG_20220220_150153781783.png
-
-【DREAMLAND】梦境框架-(安卓7.0-12)
-Riru模块： 点击查看
-
-梦境管理器：点击查看
-
-magisk-dreamland：点击查看
-
-IMG_20220220_152839785.png
-
-免【ROOT】XPOSED框架
-天鉴：(输入0000长按D，右上点造访-得到密码)：点击查看
-
-太极：点击查看
-
-应用转生： 点击查看
-
-VirtualXposed： 点击查看
-
-SandVXposed：点击查看
-
-神之手：点击查看
-
-VMOS Pro(虚拟大师)：点击查看
-
-SlimVXP：点击查看
-
-BlackBox黑盒：点击查看
-
-LSPatch稳定版：点击查看
-
-LSPatch测试版：点击查看
-
-X开：点击查看
-
-IMG_20220220_161114788.png
-
-【XP模块】 抖音模块
-抖音助手： 点击查看
-
-抖音+： 点击查看
-
-抖音伴侣： 点击查看
-
-AdAway： 点击查看
-
-要你命三千： 点击查看
-
-诺诺诺嗯： 点击查看
-
-HookBox：点击查看
-
-长江七号：点击查看
-
-小鸽子(视频无水印下载)：点击查看
-
-Destiny(原LanFeng)：点击查看
-
-逗音小能手：点击查看
-
-VodkaMod：点击查看
-
-IMG_20220220_162211790.png
-
-【XP模块】 蚂蚁森林模块
-蚂蚁森林🌱自动浇水、收能量、喂鸡、签到…
-
-水晶版： 点击查看
-
-秋风版： 点击查看
-
-蜡笔小新版：点击查看
-
-雨季版：点击查看
-
-【XP模块】隐藏应用列表
-该模块提供了一些隐藏方式用于隐藏某些指定的软件从而不被检测到
-
-隐藏应用列表：点击查看
-
-Riru-Hide My Applist：点击查看
-
-应用列表检测器：点击查看
-
-隐秘空间：点击查看
-
-【XP模块】 核心破解
-允许降级安装应用，禁用软件包管理器签名验证，禁用APK签名验证
-
-核心破解3.8(安卓10-12)： 点击查看
-
-核心破解2.2(安卓9-10)： 点击查看
-
-核心破解2.1(安卓8.x)： 点击查看
-
-核心破解2.0(安卓7.x)： 点击查看
-
-核心破解1.4(安卓4.x-6.x)： 点击查看
-
-【XP模块】 应用管理模块
-应用管理： 点击查看
-
-阻止运行： 点击查看
-
-绿色守护： 点击查看
-
-应用控制器： 点击查看
-
-Thanox(灭霸)： 点击查看
-
-DeepSleep(控制应用后台唤醒)：点击查看
-
-自动墓碑后台：点击查看
-
-NoActive(墓碑)：点击查看
-
-MiTlite(墓碑模块)：点击查看
-
-DMINI_8aef76ad581e7105.jpg
-
-【XP模块】指纹支付模块
-xposed版：点击查看
-
-面具Riru版：点击查看
-
-面具Zygisk版：点击查看
-
-【XP模块】取消对话框
-对话框取消： 点击查看
-
-对话框取消beta版： 点击查看
-
-对话框取消修复版：点击查看
-
-Dia(对话框取消新版）点击查看
-
-32ad15b25c69eeee2883.png
-
-【XP模块】隐私保护模块
-我的隐私：点击查看
-
-X隐私保护： 点击查看
-
-XPrivacyLua： 点击查看
-
-放开我的剪贴板： 点击查看
-
-【XP模块】 应用破解模块：可以白嫖部分软件和单机游戏
-vipHook： 点击查看
-
-GodVip：点击查看
-
-BuyTool幸运内购： 点击查看
-
-BuyTool使用介绍：点击查看
-
-天帝VIP(破解应用VIP)：点击查看
-
-道道道(破解应用VIP)：点击查看
-
-Jasi破解器：点击查看
-
-simpleVip：点击查看
-
-mHook管理器：点击查看
-
-esXplorer(破解ES文件管理器VIP)：点击查看
-
-Hook模块：点击查看
-
-KModule(破解部分软件VIP)：点击查看
-
-WuWei(破解部分软件VIP)：点击查看
-
-野草集：(破解部分小说软件VIP)点击查看
-
-酷通hook：点击查看
-
-河马视频等通杀模块：点击查看
-
-大师兄影视模块：点击查看
-
-飞瓜影视等通杀模块：点击查看
-
-小草视频通杀模块：点击查看
-
-Fuck VIP(破解部分应用VIP)：点击查看
-
-Fuck光速虚拟机XP模块：点击查看
-
-JsHook(破解部分软件VIP)：点击查看
-
-Vip Kill(破解部分软件VIP)：点击查看
-
-UnlockVIP(破解部分软件VIP)：点击查看
-
-Hooker(破解部分软件VIP)：点击查看
-
-FCHook(破解部分软件VIP)：点击查看
-
-VMOS Pro++(虚拟机破解模块)：点击查看
-
-Fuck VMOS Pro(虚拟机破解模块)：点击查看
-
-Fuck MP3提取转换器：点击查看
-
-VIP for Yuki(破解部分软件VIP)：点击查看
-
-Hook Vip(破解部分软件VIP)：点击查看
-
-FakeFL(Fake Location模块)：点击查看
-
-尊享会员服务(破解部分软件VIP)：点击查看
-
-VIP模块(破解部分软件VIP)：点击查看
-
-MyApp(破解部分软件VIP)：点击查看
-
-幸运破解器：点击查看
-
-MyHook(破解部分软件VIP)：点击查看
-
-破晓(破解部分软件VIP)：点击查看
-
-IMG_20220221_2130196276.png
-
-【XP模块】酷我音乐模块
-酷我酷狗VIP：点击查看
-
-酷我增强插件：点击查看
-
-酷我VIP：点击查看
-
-酷我增强：点击查看
-
-爱酷我：点击查看
-
-IMG_20221011_1538532889.png
-
-【XP模块】 微信增强模块合集
-V++： 点击查看
-
-女娲石：点击查看
-
-微运动：点击查看
-
-微X模块 ： 点击查看
-
-微信分组： 点击查看
-
-微信群发： 点击查看
-
-微信密友： 点击查看
-
-微信增强： 点击查看
-
-微信斗图： 点击查看
-
-畅玩微信： 点击查看
-
-企业助手： 点击查看
-
-微信学英语：点击查看
-
-TSBattery(省电模块)：点击查看
-
-模拟微信摇一摇：点击查看
-
-MDWechat(微信美化)： 点击查看
-
-去TM的微信信息流：点击查看
-
-我不需要确认：点击查看
-
-QQCleaner Lite(轻量版本的瘦身模块)：点击查看
-
-QQ瘦身模块(QQ/TIM/微信缓存垃圾清理)：点击查看
-
-禁用微信签名验证：点击查看
-
-飞哥传说(企业微信抢红包)：点击查看
-
-企微小打手(接管企业微信定位服务)：点击查看
-
-WeChat Pad(开启手机和平板同时登陆入口)：点击查看
-
-微信群消息助手：点击查看
-
-微信糊脸：点击查看
-
-20220220194848Aicy-1798.png
-
-【XP模块】 QQ增强模块合集
-QN(增强模块)： 点击查看
-
-QX(增强模块)： 点击查看
-
-绿豆(增强模块)：点击查看
-
-QScript脚本模块： 点击查看
-
-H.entai.Q(增强模块)： 点击查看
-
-ColorQQ2(主题美化)：点击查看
-
-XAutoDaily(自动签到)：点击查看
-
-花Q： 点击查看
-
-QQ省电模块： 点击查看
-
-QQ净化：点击查看
-
-QQ瘦身(缓存清理垃圾)： 点击查看
-
-TSBattery(省电模块)：点击查看
-
-QAuxiliary(增强模块)：点击查看
-
-QQCleaner Lite(轻量版本的瘦身模块)：点击查看
-
-QTool(QQ增强模块)：点击查看
-
-小彩豆(QQ辅助模块)：点击查看
-
-QQ复读机：点击查看
-
-TL_ing(QQ增强模块)：点击查看
-
-【XP模块】 系统增强模块
-Xp快译： 点击查看
-
-全局复制： 点击查看
-
-强制截图： 点击查看
-
-指纹支付： 点击查看
-
-锁定通知： 点击查看
-
-文本自定义： 点击查看
-
-锤子BigBang： 点击查看
-
-伪装WiFi连接： 点击查看
-
-移除截屏延迟： 点击查看
-
-无障碍-Daemon： 点击查看
-
-米窗-全局小窗： 点击查看
-
-原生音乐通知栏： 点击查
-
-短信验证码提取： 点击查看
-
-导航栏扩展模块： 点击查看
-
-xSuite(修改应用图标)： 点击查看
-
-Xposed edge por(边缘手势)： 点击查看
-
-爱玩机-安装器接管：点击查看
-
-阻止更新：点击查看
-
-Flat Style Bar Indicators(状态栏美化)：点击查看
-
-剪贴板过滤器：点击查看
-
-状态栏歌词：点击查看
-
-音量级别+：点击查看
-
-非残(假装自己没有使用无障碍服务)：点击查看
-
-SkyOlin助手(分屏)：点击查看
-
-隐秘空间：点击查看
-
-自由屏幕旋转：点击查看
-
-拒绝强制亮度：点击查看
-
-设置应用全屏：点击查看
-
-进程锁：点击查看
-
-Force Dark-强制深色模式：点击查看
-
-NekoSMS-垃圾短信拦截器：点击查看
-
-HideZoomWindow(从截图和录屏中隐藏小窗)：点击查看
-
-【XP模块】伪装设备信息
-应用伪装： 点击查看
-
-应用变量： 点击查看
-
-爱玩机-应用伪装：点击查看
-
-手机查看器：点击查看
-
-Android Faker：点击查看
-
-设备ID更改器：点击查看
-
-Guise-应用变量：点击查看
-
-【XP模块】 存储重定向
-重定向应用程序在sdcard目录下生成的文件夹和文件的路径，防止应用在sdcard目录下乱拉屎
-
-存储重定向：点击查看
-
-XInternalSD： 点击查看
-
-LT NoLitter重制版： 点击查看
-
-IMG_20220221_153614822.png
-
-【XP模块】 强国助手模块
-模拟点击，解放双手，学生党必备的软件 积分执行、顺序执行、挑战答题、每周答题、双人对战、四人对战
-
-霸王强国：点击查看
-
-旺仔强国：点击查看
-
-校雷锋强国：点击查看
-
-阿超强国：点击查看
-
-高级强国：点击查看
-
-学习机强国：点击查看
-
-自动学习强国：点击查看
-
-时光强国：点击查看
-
-学习助手：点击查看
-
-AI强国：点击查看
-
-一键强国：点击查看
-
-科技强国：点击查看
-
-强国能手：点击查看
-
-学习一下强国：点击查看
-
-IMG_20221011_1552062891.png
-
-【XP模块】 虚拟定位
-可以模拟一个虚假的地理位置
-
-模拟位置： 点击查看
-
-lataclysm： 点击查看
-
-X定位保护：点击查看
-
-对话框取消beta版： 点击查看
-
-虚拟定位：点击查看
-
-aca24bc17f1092792882.png
-
-【XP模块】 翻译模块
-把app内的文字翻译成中文
-
-AllTrans： 点击查看
-
-AllTrans使用教程：点击查看
-
-微信学英语：点击查看
-
-Xp快译： 点击查看
-
-20220221084110Aicy799.png
-
-【XP模块】 MIUI系统专用模块合集
-XMiTools： 点击查看
-
-小米净化： 点击查看
-
-MIUI全局高帧： 点击查看
-
-Miui12双排状态栏： 点击查看
-
-解锁MIUI键盘优化： 点击查看
-
-MiuiHome桌面增强模块：点击查看
-
-ChiMi(MIUI增强模块)： 点击查看
-
-CustoMIUIzer(MIUI专用)： 点击查看
-
-MIUI双开限制解除模块： 点击查看
-
-移除系统相机拍照声音模块：点击查看
-
-爱玩机-MIUI安装器：点击查看
-
-爱玩机-MIUI高级设置：点击查看
-
-淘米水(MIUI去广吿模块)：点击查看
-
-不要多管闲事(干掉无障碍十秒等待)：点击查看
-
-MIUI强调色：点击查看
-
-MIUltra(MIUI12.5扩展)：点击查看
-
-小米运动Hook：点击查看
-
-状态栏歌词：点击查看
-
-小米push增强模块：点击查看
-
-隐藏MIUI勇者标识：点击查看
-
-AppLock(防止特定应用被侧滑杀死或一键清理)：点击查看
-
-MiCode(小米浏览器增强模块)：点击查看
-
-独立显秒：点击查看
-
-MIUI原生通知图标：点击查看
-
-粗粮：点击查看
-
-小米翻译+：点击查看
-
-Miui时间显秒：点击查看
-
-解锁小米妙：点击查看
-
-WooBoxForMIUI(MIUI13系统扩展)：点击查看
-
-解锁MIUI+：点击查看
-
-不许卡米：点击查看
-
-Miui主题破解：点击查看
-
-MIUI工具箱：点击查看
-
-AppLock(防止应用被侧滑杀死或一键清理)：点击查看
-
-MIUI性能救星：点击查看
-
-MaxFreeForm(解除MIUI13多小窗限制)：点击查看
-
-MiuiMediaEditor(MIUI相册增强模块)：点击查看
-
-MIUI遮罩进化：点击查看
-
-MIUI修改原生安装器：点击查看
-
-墨•桌：点击查看
-
-AutoNFC：点击查看
-
-MIUI QOL(系统增强模块)：点击查看
-
-MIUI录屏进化：点击查看
-
-小米不妙·享：点击查看
-
-MiTlite(墓碑模块)：点击查看
-
-MIUI安装器进化：点击查看
-
-Miller(MUI功耗优化模块)：点击查看
-
-你这运营消息根本就全都是广告吧：点击查看
-
-MIUI更新进化：点击查看
-
-WINI-悬浮通知模糊模块：点击查看
-
-5G开关：点击查看
-
-MIUI通知修复：点击查看
-
-BetterMiuiExpress(负一屏直接显示快递信息)：点击查看
-
-传送门增强：点击查看
-
-MIUI自由小窗X-MiuiFreeFormX：点击查看
-
-Cemiuiler-MIUI系统增强模块：点击查看 StarVoyager(系统增强)：点击查看
-
-IMG_20220221_085858801.png
-
-【XP模块】 Flyme系统专用模块合集
-FXposed： 点击查看
-
-Flyme助手： 点击查看
-
-MZXPT(魅族工具箱)： 点击查看
-
-flyme工具箱：点击查看
-
-IMG_20220422_1925241225.png
-
-【XP模块】 ColorOS系统专用模块合集
-万物： 点击查看
-
-一加拓展： 点击查看
-
-一加氢氧主题： 点击查看
-
-一加指纹拓展： 点击查看
-
-一加状态栏网速： 点击查看
-
-ColorOSTool系统增强模块：点击查看
-
-WooBox For ColorOS：点击查看
-
-ColorOS通知图标增强：点击查看
-
-LuckyTool：点击查看
-
-ColorOS6(系统增强模块)：点击查看
-
-20220221091208Aicy804.png
-
-【XP模块】 网易云音乐模块合集
-云村清洁工： 点击查看
-
-杜比大喇叭β版： 点击查看
-
-UnblockMusic Pro： 点击查看
-
-网易云音乐插件： 点击查看
-
-专辑封面禁旋转： 点击查看
-
-网易叼毛云：点击查看
-
-IMG_20220221_113124805.png
-
-【XP模块】 微博净化模块
-微博+： 点击查看
-
-AdAway： 点击查看
-
-微博助手：点击查看
-
-这真轻享(微博轻享版/极速版去广告)：点击查看
-
-20220221141156Aicy809828.png
-
-【XP模块】 百度贴吧净化模块
-百度贴吧伴侣： 点击查看
-
-百度贴吧助手：点击查看
-
-帖吧TS(帖吧净化)： 点击查看
-
-联璧模块： 点击查看
-
-【XP模块】 建行工行模块忽略ROOT检测模块
-建行杀手： 点击查看
-
-建行忽略root修复版： 点击查看
-
-BankRX(工行建行)： 点击查看
-
-无间道(农行、工行、反诈中心屏蔽root检测)：点击查看
-
-20220221142448Aicy812.png
-
-【XP模块】 哔哩哔哩增强模块
-哔哩漫游： 点击查看
-
-哔哩补丁： 点击查看
-
-联璧模块： 点击查看
-
-FuckBilibiliVote(去你妈b站视频弹窗)：点击查看
-
-不要竖屏：点击查看
-
-哔哩漫游X：点击查看
-
-b站会员画质：点击查看
-
-IMG_20220529_0705171935.png
-
-番茄小说VIP破解模块
-
-番茄vip模块：点击查看
-
-番茄小说hookvip模块：点击查看
-
-番茄通杀：点击查看
-
-S21011-144657422890.png
-
-【XP模块】 运动修改模块
-修改步数，让你装逼不费劲！
-
-运动修改器： 点击查看
-
-运动加速器： 点击查看
-
-运动模拟器： 点击查看
-
-【XP模块】状态栏变色
-微聚旧版： 点击查看
-
-微聚新版： 点击查看
-
-PerfectColorBar： 点击查看
-
-自动沉浸式状态栏：点击查看
-
-【XP模块】 隐藏Root和xposed不被检测到
-RootCloak(隐藏Root)：点击查看
-
-zuper(隐藏Xposed和Root)： 点击查看
-
-隐藏应用列表：点击查看
-
-XposedHider(隐藏Xposed)：点击查看
-
-SudoHide(隐藏Xposed)：点击查看
-
-【XP模块】过VPN检测
-NoVPNDetect：点击查看
-
-过VPN检测：点击查看
-
-算法助手：点击查看
-
-Dialbox：点击查看
-
-【XP模块】 重力工具箱
-GravityBox[安卓8] ： 点击查看
-
-GravityBox[安卓9] ： 点击查看
-
-GravityBox[安卓10] ： 点击查看
-
-GravityBox[安卓11] ： 点击查看
-
-IMG_20221011_1519312886.png
-
-【XP模块】去广吿模块
-AD快消：点击查看
-
-大圣净化： 点击查看
-
-大圣净化-Magisk版：点击查看
-
-悟空加速： 点击查看
-
-AdBlocker： 点击查看
-
-联璧模块： 点击查看
-
-闲鱼助手：点击查看
-
-电报广告拦截器：点击查看
-
-电报去广告模块：点击查看
-
-推特去广告模块：点击查看
-
-Twitter Ad Eater(推特广告吞噬者)：点击查看
-
-FuckCoolapkR-酷安去广告模块：点击查看
-
-VideoAdKill(腾讯优酷爱奇艺虎牙去广告模块)：点击查看
-
-ZuiYouHook最右去广告模块：点击查看
-
-去你大爷的广告：点击查看
-
-FuckAD-去他妈的广告：点击查看
-
-开屏小助手：点击查看
-
-IMG_20220221_143749814.png
-
-【XP模块】 皮皮虾快手模块合集
-快手+： 点击查看
-
-AdAway： 点击查看
-
-诺诺诺嗯： 点击查看
-
-皮皮虾助手： 点击查看
-
-要你命三千： 点击查看
-
-皮皮搞笑助手：点击查看
-
-S21011-150318612888.png
-
-【XP模块】小红书模块
-AdAway： 点击查看
-
-X小红书： 点击查看
-
-小红书+： 点击查看
-
-红薯猪手：点击查看
-
-IMG_20221011_1555412892.png
-
-【XP模块】钉钉模块
-钉钉打卡： 点击查看
-
-钉钉助手： 点击查看
-
-钉钉反撤回神器：点击查看
-
-钉钉增强：点击查看
-
-锤锤：点击查看
-
-IMG_20221011_1524592887.png
-
-【XP模块】telegram电报模块
-TMoe(电报增强模块)：点击查看
-
-电报广告拦截器：点击查看
-
-电报去广告模块：点击查看
-
-TeleSpeed(提升电报下载速度)：点击查看
-
-Telegram Helper(电报增强模块)：点击查看
-
-IMG_20221016_0037052984.png
-
-【XP模块】YouTube油管模块
-YouTube AdAway：点击查看
-
-油管助手：点击查看
-
-【XP模块】其他模块合集
-算法助手(Hook工具)：点击查看
-
-上帝模式：点击查看
-
-天帝模式：点击查看
-
-定时清理(清理文件和文件夹)： 点击查看
-
-xposed黑名单(禁用Xposed)： 点击查看
-
-AllTrans(应用内翻译)：点击查看
-
-去伱大爷的内置浏览器： 点击查看
-
-一键分享(视频无水印)： 点击查看
-
-知了(知乎增强模块)： 点击查看
-
-交通12123屏蔽root检测 ： 点击查看
-
-面具hide增强模块： 点击查看
-
-你才长按复制访问：点击查看
-
-导航栏扩展模块： 点击查看
-
-今日头条+： 点击查看
-
-假装分享： 点击查看
-
-Magisk hide(面具增强模块)： 点击查看
-
-太极更新宝(太极阴专用)： 点击查看
-
-一个让你感觉卧曹卧曹的模块： 点击查看
-
-应用设置重生版： 点击查看
-
-飞书助手： 点击查看
-
-数据过滤： 点击查看
-
-阿里系Xposed反检测： 点击查看
-
-淘饭饭(自动领券)：点击查看
-
-拼夕夕免拼助手：点击查看
-
-京东历史价格：点击查看
-
-陌陌群发模块：点击查看
-
-DDex脱壳(XP)：点击查看
-
-DJkwaiching(破解音乐VIP)：点击查看
-
-Blued模块：点击查看
-
-王者人生wifi信息劫持：点击查看
-
-油管模块合集： 点击查看
-
-小草影视助手：点击查看
-
-VCAM(虚拟摄像头)：点击查看
-
-动漫之家增强模块：点击查看
-
-Xposed Tool(一键内置XP模块)：点击查看
-
-支付宝装X模块：点击查看
-
-钱迹自动记账插件：点击查看
-
-AnyDebug(修改应用布局参数)：点击查看
-
-过VPN检测：点击查看
-
-Fuck云注入(禁止云注入弹窗)：点击查看
-
-QDReadHook：(起点阅读增强模块)：点击查看
-
-Q音助手(QQ音乐净化)：点击查看
-
-下载重定向模块-(调用ADM下载器)：点击查看
-
-不要锁区(解除区域限制)：点击查看
-
-IMG_20221018_1629403004.png
-
-【APP】搞机助手
-玩机必备软件
-
-搞机助手(情非得已)原创作者：点击查看
-
-搞机重制版(快播内部工作人员)：点击查看
-
-搞机助手2(抱抱猫People11)：点击查看
-
-搞机客(情非得已)：点击查看
-
-IMG_20221018_1604323003.png
-
-【APP】SSH终端工具
-JuiceSSH：点击查看
-
-ConnectBot：点击查看
-
-Primitive ftpd：点击查看
-
-SSH-Termius：点击查看
-
-【APP】第三方油管纯净无广吿
-Vanced：点击查看
-
-𝐏𝐮𝐫𝐞𝐓𝐮𝐛𝐞𝐫：点击查看
-
-LibreTube：点击查看
-
-YouTube_ReVanced：点击查看
-
-【APP】第三方𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦电报
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦魔法版(内置代理)：点击查看
-
-Nekogram X(内置代理)：点击查看
-
-Nagram(内置代理)：点击查看
-
-Nekogram(内置代理)：点击查看
-
-GuGugram(需要梯子)：点击查看
-
-Telegraph(内置代理-功能超多)：点击查看
-
-【APP】文件管理器
-RE文件管理器： 点击查看
-
-ES文件管理器会员版： 点击查看
-
-NP管理器： 点击查看
-
-ES管理器美化版：点击查看
-
-RS文件管理器：点击查看
-
-SE文件管理器：点击查看
-
-【APP】终端模拟器
-Termux：点击查看
-
-ZeroTermux：点击查看
-
-UTermux：点击查看
-
-终端模拟器：点击查看
-
-Ansole：点击查看
-
-NeoTerm：点击查看
-
-【APP】JAVA模拟器
-J2ME Loader：点击查看
-
-Retro2ME：点击查看
-
-【APP】加固app脱壳工具
-BlackDex：点击查看
-
-fdex2：点击查看
-
-微脱壳：点击查看
-
-反射大师：点击查看
-
-DDex脱壳(XP)：点击查看
-
-DITOR-脱壳工具：点击查看
-
-【APP】备份工具
-钛备份： 点击查看
-
-超级备份：点击查看
-
-【APP】在线影视播放软件
-星球视频：点击查看
-
-美剧鸟：点击查看
-
-电视家3.0：点击查看
-
-小草影视：点击查看
-
-美剧星球：点击查看
-
-【APP】Apk编辑工具
-Apk编辑器：点击查看
-
-APK Editor R3：点击查看
-
-Apktool M(Apk反编译)：点击查看
-
-NP管理器：点击查看
-
-MT管理器：点击查看
-
-【APP】应用冻结
-雹：点击查看
-
-冰箱：点击查看
-
-【APP】下载工具
-ADM(下载工具)： 点击查看
-
-IDM+(下载工具)： 点击查看
-
-闪电下载： 点击查看
-
-种子磁力播放器：点击查看
-
-种子磁力下载器：点击查看
-
-磁力云高级版：点击查看
-
-tTorrent种子下载器：点击查看
-
-懒熊下载：点击查看
-
-浩克下载：点击查看
-
-极速下载：点击查看
-
-冰冰磁力下载器：点击查看
-
-离线云：点击查看
-
-迅雷不限速版：点击查看
-
-快鸟下载：点击查看
-
-全能下载：点击查看
-
-火箭BT下载器：点击查看
-
-游隼下载器：点击查看
-
-下载工具箱：点击查看
-
-悟空下载：点击查看
-
-【APP】HiShoot2i(带壳截图)
-HiShoot2i汉化版：点击查看
-
-精选模板(蓝奏云)：点击查看
-
-其他模板(百度云)： 点击查看提取码:h368
-
-模板和预览图：点击查看
-
-一些模板预览图：点击查看
-
-【APP】短信伪造
-一键添加收发短信到本地,可以任意设置收到任何人给你发来的短信，效果跟正常短信一模一样。应用仅供娱乐！
-
-伪造短信消息：点击查看
-
-【APP】抓包工具
-HttpCanary(小黄鸟)：点击查看
-
-Wicap(安卓嗅探器)：点击查看
-
-Packet Capture(免root抓包)：点击查看
-
-抓包精灵：点击查看
-
-【APP】MacroDroid智能触发器
-一款任务自动化配置工具，只有你想不到，没有他做不到的，功能强大，类似Tasker和xposed edge
-
-MacroDroid：点击查看
-
-辅助模块：点击查看
-
-自动发邮件插件：点击查看
-
-【YX】怀旧小游戏
-植物大战僵尸1代合集： 点击查看
-
-植物大战僵尸北美汉化版： 点击查看
-
-孤胆枪手合集：点击查看
-
-IMG_20220220_152839785821.png
-
-【APP】应用分享
-UC浏览器(去广吿版)：点击查看
-
-QQ浏览器(去广吿版)：点击率就
-
-血轮眼(禁用服务)：点击查看
-
-网速测试(网速测试)： 点击查看
-
-温控拜拜(删除温控)： 点击查看
-
-镜像助手(提取、刷入REC)： 点击查看
-
-TWRP(下载刷入TWRP)： 点击查看
-
-Cellular-Pro(频段锁定)： 点击查看
-
-APK编辑器： 点击查看
-
-微软远程桌面： 点击查看
-
-歌词适配(网易云音乐下载)：点击查看
-
-快图浏览器(魔改版)： 点击查看
-
-联通营业厅(去广吿)： 点击查看
-
-黑阈(阻止运行)： 点击查看
-
-碘酒编辑器(气泡碘酒)： 点击查看
-
-云闪付(谷歌版)： 点击查看
-
-Nova桌面： 点击查看
-
-钛备份： 点击查看
-
-山寨版谷歌应用商店： 点击查看
-
-Aptoide开源应用商店：点击查看
-
-第三方油管(无广吿)：点击查看
-
-照片编辑器：点击查看
-
-虚拟相机(可以用相册里面的照片假装拍照)：点击查看
-
-飞聊(中文版电报)：点击查看
-
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦(电报魔法版自带踢子)：点击查看
-
-NekogramX(第三方电报自带踢子)：点击查看
-
-王者特权获取：点击查看
-
-SD女佣高级版：点击查看
-
-傲软抠图会员版：点击查看
-
-神仙自动救砖：点击查看
-
-MX_Player视频播放器：点击查看
-
-蓝云(第三方蓝奏云)：点击查看
-
-迅游手游加速器(会员版)：点击查看
-
-腾讯手游加速器(魔改版)：点击查看
-
-See第三方微博：点击查看
-
-HiGo谷歌框架安装器：点击查看
-
-状态栏歌词-高级版：点击率就
-
-李跳跳(自动跳过广告)：点击查看
-
-一指禅(自动跳过广告)：点击查看
-
-AetherSX2(PS2游戏模拟器)：点击查看
-
-幸运破解器：点击查看
-
-Andronix(手机上安装Linux系统)：点击查看
-
-屏幕翻译：点击查看
-
-MIUI下载器：点击查看
-
-两仪(安卓容器)：点击查看
-
-𝐓𝐢𝐤𝐓𝐨𝐤(抖音国际版)：点击查看
-
-风车动漫魔改版：点击查看
-
-蓝云(蓝奏云第三方客户端)：点击查看
-
-面具root权限开关：点击查看
-
-爱美化(手机主题制作)：点击查看
-
-甲壳虫ADB助手：点击查看
-
-AccubatteryPro-精准电量：点击查看
-
-清浊(垃圾清理)：点击查看
-
-绿去广告(自动跳过开屏广告)：点击查看
-
-酷安去广告版：点击查看
-
-Momo(检测工具)：点击查看
-
-宇宙工具箱：点击查看
-
-【WX】微X主题
-微信主题美化，主题功能需要打赏才能开通
-
-微X主题〈带土与琳〉：点击查看
-
-微X主题〈Q版蜘蛛侠〉： 点击查看
-
-微X主题〈漫〉： 点击查看
-
-微X主题〈无题〉： 点击查看
-
-【WJ】玩机技巧
-手机端制作卡刷包线刷包教程： 点击查看
-
-魅族16T纯手机端解锁教程：点击查看
-
-防止手机文件误删教程： 点击查看
-
-魅族手机原厂线刷包： 点击查看
-
-自定义应用名称教程： 点击查看
-
-UC浏览器去除启动页广告教程： 点击查看
-
-SELinux未处于严格模式的解决方法：点击查看
-
-禁用App启动页广告教程：点击查看
-
-把英文软件翻译成中文：点击查看
-
-修补boot安装面具教程：点击查看
-
-面具开启Zygisk后隐藏root教程：点击查看
-
-2022_0114_124720-1820.png
-
-【PC】端搞机工具合集
-秋之盒： 点击查看
-
-ADB工具： 点击查看
-
-高通全系列驱动：点击查看
-
-ADB&FastBoot驱动：点击查看
-
-搞机工具箱：点击查看
-
-搞机助手PC版： 点击查看
-
-搞机助手CMD命令版：点击查看
-
-小米线刷工具售后版： 点击查看
-
-高通9008线刷工具：点击查看
-
-百度云不限速下载工具：点击查看
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>XP模块合集</title>
+    <style>
+		 *{margin:0;padding:0;border:0}body{font-family:PingFang SC,PingFang,Helvetica,arial,freesans,clean,sans-serif;font-size:16px;line-height:1.5;color:#333;background-color:#fff;padding:20px;max-width:960px;margin:0 auto;transition:background-color .3s;-moz-transition:background-color .3s;-webkit-transition:background-color .3s;-o-transition:background-color .3s}html,body{height:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}p,blockquote,ul,ol,dl,table,pre{margin:15px 0}h1,h2,h3,h4,h5,h6{margin:20px 0 10px;padding:0;font-weight:bold;-webkit-font-smoothing:antialiased}h1 tt,h1 code,h2 tt,h2 code,h3 tt,h3 code,h4 tt,h4 code,h5 tt,h5 code,h6 tt,h6 code{font-size:inherit}h2,h3,h4,h5,h6{margin-top:50px}h1{font-size:28px;padding-bottom:20px;color:#000}h1:nth-of-type(1){margin-top:0}h2{font-size:26px;margin-bottom:16px;border-bottom:1px solid #ccc;color:#000}h3{font-size:22px}h4{font-size:20px}h5{font-size:18px}h6{color:#666;font-size:16px}h1+p,h2+p,h3+p,h4+p,h5+p,h6+p{margin-top:10px}a{color:#4183c4;text-decoration:none}a:hover{text-decoration:underline}ul,ol{padding-left:40px}dl dt{font-size:14px;font-weight:bold;font-style:italic;padding:0;margin:15px 0 5px}dl dt:first-child{padding:0}dl dt>:first-child{margin-top:0}dl dt>:last-child{margin-bottom:0}dl dd{margin:0 0 15px;padding:0 15px}dl dd>:first-child{margin-top:0}dl dd>:last-child{margin-bottom:0}pre,code,tt{font-size:16px;font-family:Consolas,"Liberation Mono",Courier,monospace}code,tt{margin:0;padding:4px 8px;white-space:nowrap;background-color:#282c34;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;color:white}pre>code{margin:0;padding:0;white-space:pre;border:0;background:transparent}pre{background-color:#282c34;font-size:16px;line-height:20px;overflow:auto;padding:10px 12px;color:white;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}pre pre{margin:0;padding:2px 0;border:0}pre code,pre tt{background-color:transparent;border:0}kbd{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;background-image:linear-gradient(#f1f1f1,#ddd);background-repeat:repeat-x;border-color:#ccc;border-image:none;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;border-style:solid;border-width:1px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;line-height:10px;padding:1px 4px}blockquote{border-left:4px solid #3cae7c;padding:10px 15px;color:#777;background:#f1f1f1;border-top-right-radius:4px;border-bottom-right-radius:4px}blockquote>:first-child{margin-top:0}blockquote>:last-child{margin-bottom:0}hr{clear:both;margin:15px 0;height:0;overflow:hidden;border:0;background:transparent;border-bottom:2px solid #ddd;padding:0}table{border-collapse:collapse;border-spacing:0}table th{font-weight:bold}table th,table td{border:1px solid #ccc;padding:6px 13px}table tr{border-top:1px solid #ccc;background-color:#fff}table tr:nth-child(2n){background-color:#f8f8f8}img{max-width:100%}@font-face{font-family:"iconfont";src:url('https://gitee.com/yangxingcai/markdownpad2-auto-catalog/tree/master/ali-iconfont/iconfont.eot?t=1578809028779');src:url('https://gitee.com/yangxingcai/markdownpad2-auto-catalog/tree/master/ali-iconfont/iconfont.eot?t=1578809028779#iefix') format('embedded-opentype'),url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAzgAAsAAAAAF9AAAAyRAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCFcgqeOJgcATYCJANUCywABCAFhG0HgV8bvxMjkpHWHpP9xUE8xjPq1Kot+onrlRld0kyftDKRH/c2/ZKYz8Hztd/v3N39IoZ5glCZbtosEZI/qnrFM81LIUQWs/mnOf2XnyAnEbgI+NYE80DFsIoikYoFS9WZJK0nFV4bIVexxLdBTYGasu0SNioe2r43ar4gbMIY+ooCCFicKwDQUS9H8twz+l6XwgopHf249moBUBK6ClmhKlxr3CUf3yWFXDH/l+hKnJYHQGpCT6ifAoAboAR0gHp6xrtBPP42782KkSOsQVv9JbtDAD9lWkj7oBEyEIJBq8KAyWlqFQjZKMTkBAvePLdlVYMhDcCFV61nXAewZr6/vIPWIQCFSwO9aMdEaQ0YaMEbhJqAw0jgBIztcWC4FmigBRiQP6v9A+gYWgzx28TkAUCVCnl0yiJ+zE/4E/zJ/hH+8f5p/kX+Bv8WP+W/21XSNfIFDATAAovmZybxKD4Z3V2oUqPOyazBuek/8yBATJCoEF58JAhJLtz4MXgIo4lTREDcgDuC8OD7kIQFXjoCYJF0xGDRdATBYumIwhIqhkpgeKEJMHzQZBgJ6AgYAh2P4Zh0GgwXdBEMN7QBhh+6BYaBUjA80LukIwzPxQxtaAmMOHQk6VDwBm1E0CQVrNIERgDmAeAOA3KPDdFvj+5G4UOBG8QJ1igsjgQ/ce5cpAjVMWEcHOe6MhuSokOYSRkXQ1VhGS46ASGXW0QUc2FaSAgkcMGSE48m2CGA1zo0lpRfbyAbxdYEtk5gMgkEiHBbopDHNxr5fIaBNLhbtKJcncAeSSFU1M4Cnp5vs0Twl5pLaGZsg0fwQVVGcoczU4L6LLSfbPRIxQC0KoCczcNVo30ytFemlCtmajuKaVrm9co7OpQGMerzjXVBkW6zmQaP/8qv0zM4Sx6tO4FtdWpcClRpGLbjvEwOxHFJOA5PFEK5l9v7iBCLS4LN717GXszLykV1IgtDUAJEZKlJUHGEXdOt3qhxoroLfr0UNKqzC3yjbha5fb64fR0DTnZgeskFb7/T3nhaJh+3L4c6ezPBJ9OR5Hk6q5nO3u/1DnZcu9US1aTGBGcQCCpDNaZk+EFANUyh9+UqGGQoMfwDhMbL1auYrrH2lCmbotRmB6bnG7dPaTyVYP8jkmrRn565rSnRcVpz6uIZpe7MvhaJzRVhOaW0/R5sSXdG21JttwtO+FCdmH4g23ElUf8ApI7jyZYdERHG41e82H1kw0W3FzkyVOfL9+VE7qRI3ePrrut/RuHrUOaho83q7WXkS23HJfHUGdXNR4+jiqaXPxc0/lHxRUq7DSP0Fk1jfrBb6zmiS+OU6dwI1Hr0LqAcp0pdV19TW89ePCViWk4/kKO0RLGoMxMNTpJtcgtYZg/G0bv4Y9iLBo0x2ZpZa5pDGnSCOpNWKDTr+bVGwxTBwFkt4Rs1ZI3BVM90KkqO/KX9u4DQe4SwCQE/T8cz93hLXxcBYWndOucY/NXliNl8MjIjH2wb6utq6rfTL5J+MZa16+gZbNGbbATmQB/F2hZJ3UTZh9qjmTvaJEfvdfTvOEo3fX83SlfDOdNWGKmZXKueYXIjyAU5AfKzESvNh3eQZQad/PRV7JJ1FNW5Zac4Q7lx+yFBhUkrM5YjujqgOG9UUHWLXa8wQLQzUF4pKql6ZKRGqfd6NTSN3uEz5fdWqEfSJp+ClnlbpkkSHFuBCRkPY0dTCRY11e5T6Iaw3tB/iJzRrLqK0rQYSYYd2AWvZOaFK/wok28QMLWyiA7v4JjMojZ3yKN8NAlyXAoZa1chdfbzh0iwdDTx6AwOYTz5lN7hMAsx4Bd0LPpGdzU7PNsQrUk/DZ3B0Aj8C7s8Dr3NZQFOY6OVFBusBhKT6R1mM6J1o9leR9tqMb3NNqgRgxNXyJzWj7TGTSHYbwE99IerNf2B3Y72eXPFK0pueNj+Em1o7+ZgZTBxkTZj7sPvmXF/BAtj7vzJ5QHe6yK+eugEwSqLJFq5r3howWt1cEhekSa0R8jcvRmhJWj6gXmZ2vbryQTI1hrG9n7LL1Qqvfq3vcNVBsbuNq99XhYz2kleVpgdM3Z4gRK8HqytZXkbnnnC7r+FzcyTHz6cZE4DLYp+Q5u5sSeZHz6tWeSEjx5BJ7LacH150paoOb1g67vQU2TtqmQQt8NIupPcWcasnm39pIKBRhZs8+zXI0Z2EpAZoyCAl3lzkYI4N8vw7Ncjq07Jh8HLKfMyYLnhOK6zUJaBDHCDulFroXRJbSD+ZEFBWZEnbjEv+FxJ0T/0KKkqtFBbHGS4OComvJBZolrbe3L7rMnxOfwc6aRMiSVlfgqjqnDUv/TZteLs07JedwpjBgczswaum9S/9S1LY1cpBs2KaaSXwJlXNoPlZtGx6fbph0Qpc7riuupf1pb3Lq/dL12Utaj3olTPYdJvicmJ+S+OHzqevz2KSp55/KDzbpix80rB4EfVDiv7ZHFKcvGpB/Z963/FUcWptqBKrLJZ9UqIJeT3uHxI+ErVLCvoUSbtXBLVI6ikeX5AiOefPZ3nFZX/KRZUZubO6DlfM5UnjdnbQsZ/AU+pJ/YIVz/ixJ/LaDhaqIzEvgwhxC2sN69E28PD0HGVe4sGlAxUiCdIalIqOP3HiNPHrOzczVJ9iC3c/Z5RxJg36vzo4YOKTlXOwP+K6zUvvG2rjbNhJ+ftKy0IDDjN/PaN6VtPDxCWdAj2eIAVdnZCrFaFsKgR/XdcJl5FviIEV62G379DZT0tCEs6BHtcaGV2djLBVc9gCqYORAIiqHj1OBRjZgJpOUeOHD4M0nNzzRGkK6ObYtVEE65ub2pX402EGnmH81qbWnmpxiM8R3Oz2aF3yOsoG72uRPB1s1vOkbe0+3BCCs7cgr8J2Razmy3ASbXp9lbZA5D3owqyee1Mrbyidu5ZNo84R2ws9kg1eAgf8ocMKath89jFrBDNG/964+5uFEO7sY2YqQN9sn4/q1fRu4FROjjo4bq2EeFdYfdbV+8vRoIHY28S0xPvBQ/alBvnf7CE8IOsF1vxD3OlAlFa2y/97UilCC7rtzJt5cpgRNGRo4ePgMD9B7mcsZzc2OCPn6upaKr77jLTvW5LzPhu9v5o9XNXtCvYvOzudbrH17C7okvkuDOg7FiGdMOhy0uH/LzRHbq8ZOgcuNXImOMoMmROUQUyaxZSgQLyLenmQL8V2wduzamKGIHsBfOmzJ+yF4xARg85Z2WfhbvwqReO4+SU1Semwv+H/WfLrGaMMitGiipMU8fUhB0//2x0NbIrq7s7rGa0JVNDJVdQrxr2nGf9sSRaN2HYC+6+yEs/xrhwnvQ3WH8oidEdKlUsFjmlpfuWNuX/PH4VKnTmlcml+bGyKFP8HCEjlhYfkjqli0WDpuDBB6XW+4JHHsrnrCFFLmgoW8qjH8xTtXWCB8j6hysA/n9QffCB95nfOVh3EK8W4pWimxGxT5P39jQ/24G5Zzt/KTzHDkqv/yjs+rUEl4Q35N9IPs2cirEXPYo1pZmwU4lzJz1Hw/7ZiLGzuaFdGwaGSoBHfJLHXjvqIifsEwvJnSTgXVFd5pFX834Ll/CHC8JXkcSu4EIc/Br4BCBwDrbCfmZnl+Ex2BMAAOAT4zsgcJ0JYNtmsAOBrgkHXErMmaRgcfaWaIOFMdcZT2GfmAsMGua1PoQ7YUzdYM1Y2fpdr4QMCb5i1Mbti3uwsvqaURzQzMmjYKlhCiMwh7Y2c4s63rOBG49+mDWZ0/d9CPaH3tg5sOO8MdRzpQpDaF0DyBnjTjVnvgroUkMtzBTxmbMT8C70x35sUNsmMRwhjg8OgjCdAQCocwUAHeqqMHDvPPL5/3wcIWTDOExgEEwMQJu7GJi4pyWwwMiDINwHJKCkgsEzYYSD+QCCmNBOVe5qSUDggqYEBmxaAIr7DWDifjeBhQD8Zw3CH4EJKArR003uclnv3CRkBXsYL0Bz8sItKTvRwG+UE8uSmPvz/WPKmjy0VbPqeECPqY0l8lR2pQgQiRzc9xZBawlCogF5qRTtYVTXYrxkxckt7XAjQUwJUvbA2CKjxhFP3LvY2fn235A0YTEp55jzjP9QkukHB61KU8L5gfhSxzwXMZuSOkW4AJ6eEBfn3iuOrNNKQLDPNEBcUVE19GCklnOJsqQ6fq77DAh4+Y6r3xf+FSEVVdMN07Id1/MfP3n67PkLe6OsMEvyxlLGda+lKhva9zi/3rVKPwL6jYwscbX5bKQcc17nZCmtE7bbDV7LFI682WQpvaIodqereOY5Wu/rjfJfChvkKrf1ZjVPfEyvj2i7WloCAAA=') format('woff2'),url('https://gitee.com/yangxingcai/markdownpad2-auto-catalog/tree/master/ali-iconfont/iconfont.woff?t=1578809028779') format('woff'),url('https://gitee.com/yangxingcai/markdownpad2-auto-catalog/tree/master/ali-iconfont/iconfont.ttf?t=1578809028779') format('truetype'),url('https://gitee.com/yangxingcai/markdownpad2-auto-catalog/tree/master/ali-iconfont/iconfont.svg?t=1578809028779#iconfont') format('svg')}.iconfont{font-family:"iconfont"!important;font-size:16px;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-catalogClose:before{content:"\e64c"}.icon-night:before{content:"\e74d"}.icon-indexB:before{content:"\e743"}.icon-catalogOpen:before{content:"\e692"}.icon-search:before{content:"\e669"}.icon-process:before{content:"\e675"}.icon-color:before{content:"\e69a"}.icon-openD:before{content:"\e625"}.icon-closeD:before{content:"\e626"}.icon-closeC:before{content:"\e690"}.icon-arrLeft:before{content:"\e600"}.icon-openA:before{content:"\e60a"}.icon-cancel:before{content:"\e60d"}.icon-closeB:before{content:"\e6dd"}.icon-arrTop:before{content:"\ea03"}.icon-closeA:before{content:"\e60b"}.icon-openC:before{content:"\e601"}.icon-sun:before{content:"\e744"}.icon-openB:before{content:"\e629"}.icon-indexA:before{content:"\e65b"}
+.active{color:#3cae7c}#left-container,#right-container,#list-container{position:absolute;top:0;left:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;z-index:20}#left-container{width:280px;height:100%;top:0;border-right:1px solid #ccc;z-index:21;background:#fff;transition:all .3s;-moz-transition:all .3s;-webkit-transition:all .3s;-o-transition:all .3s}#left-container .top-container,#left-container .bottom-container,#left-container #list-container{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}#left-container .top-container{position:absolute;top:15px;left:0;padding:0 15px;z-index:25;width:100%;height:48px;border-bottom:1px solid #ccc;color:#999}#left-container #list-container{position:absolute;top:62px;left:0;bottom:41px;padding:0 0 0 15px;z-index:24;overflow:auto}#left-container .bottom-container{position:absolute;left:0;right:0;bottom:0;padding:0 0 0 15px;z-index:24;height:40px;border-top:1px solid #ccc}#right-container{width:100%;height:100%;padding:15px 15px 0 295px;overflow:auto;transition:all .3s;-moz-transition:all .3s;-webkit-transition:all .3s;-o-transition:all .3s}#content{width:100%;max-width:1200px;margin:0 auto;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.catalog-button{display:inline-block;float:left;font-size:22px;line-height:34px;cursor:pointer;position:relative;z-index:30}.search-container,.search,input,textarea{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.search-container{width:100%;height:34px;padding-left:35px;position:relative}.search{display:block;width:100%;height:34px;border:1px solid #ccc;padding-left:6px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;outline:0}input,textarea{border:1px solid #ccc;padding:0 6px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;outline:0}.search-icon{position:absolute;right:6px;top:0;font-size:20px;cursor:pointer;display:none}.search-icon:hover{color:#3cae7c}.search-result{max-height:300px;background:white;margin-top:4px;padding:10px 16px;border:1px solid #ccc;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;overflow:auto;position:relative;z-index:200;color:#999;font-size:14px;line-height:1.2;-webkit-box-shadow:0 2px 4px -2px #ccc;-moz-box-shadow:0 2px 4px -2px #ccc;box-shadow:0 2px 4px -2px #ccc;display:none}.search-result a,.search-result i,.search-result span{display:block;margin:0 0 6px 0}.search-result a{cursor:pointer;color:#333}.search-result .js-active,.search-result a:hover{color:#3cae7c}.search-result i{text-align:center;font-size:26px}.search-result span{text-align:center}#list-container{width:100%}#list-container .list-wrapper{height:100%;width:100%;overflow:auto;position:relative}.list-wrapper>ul{margin:0;padding:10px 15px 10px 20px;display:block;z-index:30}.list-wrapper ul li{list-style:none;display:block;width:100%;margin:0 0 -8px 0;padding:0;cursor:pointer;line-height:26px}.list-wrapper ul li ul{margin:-6px 0 0 0;padding-left:20px;z-index:30}.list-wrapper ul li>a{display:inline-block;width:100%;margin:0;z-index:50;color:#333;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}.list-wrapper ul li>a p,.list-wrapper ul li>a span{display:table-cell;word-wrap:break-word}.list-wrapper ul li>a p{padding-left:8px;word-break:normal}.list-wrapper ul li>a span{padding-left:8px;padding-right:6px;word-break:break-all}.list-wrapper ul li i{display:block;padding:5px 0 5px 4px;margin-right:-4px;float:left;font-size:16px;line-height:1;margin-top:0;margin-left:-20px;cursor:pointer;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}.list-wrapper i{color:#999}.list-wrapper ul li a:hover{color:#3cae7c}.list-wrapper li i:hover{color:#3cae7c;border-color:#3cae7c}.bottom-container{position:absolute;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;z-index:30}.mode-container{height:40px}.mode-container>div{position:relative;float:left;height:40px;margin-right:30px;text-align:center;line-height:40px;color:#777;cursor:pointer}.bottom-container>div i{font-size:20px}.structure-child,.color-child{display:block;height:0;border:0;background:white;position:absolute;padding:0 15px;bottom:40px;left:-40px;margin:0;line-height:1;border-top-left-radius:3px;border-top-right-radius:3px;overflow:hidden;transition:height .3s;-moz-transition:height .3s;-webkit-transition:height .3s;-o-transition:height .3s}.structure-child li{width:68px;display:inline-block;height:16px;font-size:14px;margin-top:15px;white-space:nowrap;word-break:normal;position:relative;cursor:pointer}.structure-child li span{margin-left:18px}.structure-child li span::before,.structure-child .active span::before,.structure-child .active span::after{content:'';display:inline-block;position:absolute;box-sizing:border-box;border-radius:50%}.structure-child li span::before{top:0;left:0;width:14px;height:14px;border:1px solid #ccc;background:transparent}
+.structure-child .active span::before{top:0;left:0;width:14px;height:14px;border:2px solid #3cae7c}.structure-child .active span::after{top:4px;left:4px;width:6px;height:6px;background:#3cae7c}.structure-child li label{cursor:pointer}.color-child input{width:68px;margin:15px 0}.color-child span{display:inline-block;margin-top:15px;font-size:14px}.search:focus{outline:0;border-color:#3cae7c;color:#777}.mode-container>div:hover i,.structure ul li:hover,.catalog-button:hover{color:#3cae7c}.structure:hover .structure-child{border:1px solid #ccc;border-bottom:0;height:103px}.color:hover .color-child{border:1px solid #ccc;border-bottom:0;height:87px}.note-tips{font-size:12px;color:#999;margin-top:60px;padding-top:10px;border-top:1px solid #ccc}#content a{color:#3cae7c}#list-container a{text-decoration:none}#switch-button{width:100%;height:100%;position:absolute;right:0;top:0}#switch-button i{position:absolute;z-index:100;display:block;width:14px;height:40px;background-color:white;top:10px;right:-16px;border:1px solid #ccc;overflow:hidden;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;border-top-left-radius:0;border-bottom-left-radius:0;text-align:left;line-height:40px;font-size:14px;color:#999;cursor:pointer}#switch-button i:hover{color:#3cae7c;border-color:#3cae7c}@media screen and (max-width:1440px){#content{width:100%;max-width:960px;margin:auto}}@media screen and (max-width:750px){#left-container{width:60%;padding:0 15px 8px}#right-container{padding:15px 15px 0}}input::-webkit-input-placeholder{color:#999}input:-moz-placeholder{color:#999}input::-moz-placeholder{color:#999}input:-ms-input-placeholder{color:#999}div,ul,pre,code{scrollbar-color:#c1c1c1 #f1f1f1;scrollbar-track-color:#c1c1c1;scrollbar-button-color:#c1c1c1;-ms-scrollbar-track-color:#c1c1c1;-ms-scrollbar-button-color:#c1c1c1}div::-webkit-scrollbar,ul::-webkit-scrollbar,pre::-webkit-scrollbar,code::-webkit-scrollbar{width:4px;height:4px}body::-webkit-scrollbar,#right-container::-webkit-scrollbar{width:10px;height:10px}div::-webkit-scrollbar-track,ul::-webkit-scrollbar-track,pre::-webkit-scrollbar-track,code::-webkit-scrollbar-track{background-color:#f1f1f1}div::-webkit-scrollbar-thumb,ul::-webkit-scrollbar-thumb,pre::-webkit-scrollbar-thumb,code::-webkit-scrollbar-thumb{border-radius:2px;background-color:#c1c1c1}body::-webkit-scrollbar-thumb,#right-container::-webkit-scrollbar-thumb{border-radius:5px}div::-webkit-scrollbar-button,ul::-webkit-scrollbar-button,pre::-webkit-scrollbar-button,code::-webkit-scrollbar-button{display:none}div::-webkit-scrollbar-corner,ul::-webkit-scrollbar-corner,pre::-webkit-scrollbar-corner,code::-webkit-scrollbar-corner{background:#c1c1c1}.change-red{color:#3cae7c}.js-switch-button{width:0;padding:0}.js-switch-button .top-container,.js-switch-button #list-container,.js-switch-button .bottom-container{padding:0;display:none}.full-padding{padding:15px 15px 0}.js-close,.list-wrapper ul li a .js-close{display:none}.js-open{display:block}.js-active,.js-active>i,.js-active>a,.js-active>a p,.js-active>a span,.js-night-view .search-result .js-active{color:#3cae7c}#list-container .js-active>a{background:#f1f1f1}#list-container .js-active>i{padding-left:4px;padding-right:6px;margin-right:-6px;background:#f1f1f1}.js-night-view,.js-night-view h1,.js-night-view h2,.js-night-view h3,.js-night-view h4,.js-night-view h5,.js-night-view h6,.js-night-view div,.js-night-view ul,.js-night-view li,.js-night-view ol,.js-night-view dl,.js-night-view dt,.js-night-view dd,.js-night-view a,.js-night-view p,.js-night-view span,.js-night-view input,.js-night-view textarea,.js-night-view .search,.js-night-view .search-result,.js-night-view .search-result a,.js-night-view .list-wrapper ul li>a,.js-night-view blockquote,.js-night-view pre,.js-night-view code,.js-night-view tt{color:#fff}.js-night-view pre pre{margin:0;padding:2px 0;border:0}.js-night-view input:-ms-input-placeholder,.js-night-view input::-moz-placeholder,.js-night-view input:-moz-placeholder,.js-night-view input::-webkit-input-placeholder{color:#c3c3c3c3}.js-night-view,.js-night-view #left-container,.js-night-view input,.js-night-view .mode-container>div,.js-night-view .structure-child,.js-night-view .search-result,.js-night-view .color-child,.js-night-view #switch-button i{background-color:#212123}.js-night-view h1,.js-night-view h2,.js-night-view h3,.js-night-view h4,.js-night-view h5,.js-night-view h6,.js-night-view div,.js-night-view ul,.js-night-view li,.js-night-view ol,.js-night-view dl,.js-night-view dt,.js-night-view dd,.js-night-view a,.js-night-view p,.js-night-view span,.js-night-view input,.js-night-view textarea,.js-night-view #left-container,.js-night-view #left-container .top-container,.js-night-view .search,.js-night-view .search-result,.js-night-view #left-container .bottom-container,.js-night-view #left-container .bottom-container div,.js-night-view #left-container .bottom-container ul,.js-night-view #switch-button i,.js-night-view table th,.js-night-view table td,.js-night-view .note-tips{border-color:#3e3d42}
+.js-night-view #list-container .js-active>a,.js-night-view #list-container .js-active>i{background:#3e3d42}.js-night-view .list-wrapper li i:hover,.js-night-view .list-wrapper li a:hover p,.js-night-view .list-wrapper li a:hover span{color:#3cae7c;border-color:#3cae7c}.js-night-view .js-active>i,.js-night-view .js-active>a,.js-night-view .js-active>a p,.js-night-view .js-active>a span,.js-night-view .search-result a:hover{color:#3cae7c}.js-night-view #switch-button i:hover{color:#3cae7c;border-color:#3cae7c}.js-night-view .search:focus{border-color:#3cae7c}.js-night-view .search-result{-webkit-box-shadow:0 2px 4px -2px #3e3d42;-moz-box-shadow:0 2px 4px -2px #3e3d42;box-shadow:0 2px 4px -2px #3e3d42}.js-night-view table tr{border-top:1px solid #3e3d42;background-color:#212123}.js-night-view table tr:nth-child(2n){background-color:#1c1b20}.js-night-view pre,.js-night-view code,.js-night-view tt{background-color:#131313;border:1px solid #3e3d42}.js-night-view pre code,.js-night-view pre tt{background-color:transparent;border:0}.js-night-view kbd{background-color:#131313;background-image:linear-gradient(#1c1b20,#212123);border-color:#3e3d42}.js-night-view blockquote{border-left:4px solid #3cae7c;background:#3e3d42}.js-night-view div,.js-night-view ul,.js-night-view pre,.js-night-view code{scrollbar-color:#3e3d42 #212123;scrollbar-track-color:#3e3d42;scrollbar-arrow-color:#3e3d42;-ms-scrollbar-track-color:#3e3d42;-ms-scrollbar-arrow-color:#3e3d42}.js-night-view div::-webkit-scrollbar-track,.js-night-view ul::-webkit-scrollbar-track,.js-night-view pre::-webkit-scrollbar-track,.js-night-view code::-webkit-scrollbar-track{background-color:#212123}.js-night-view div::-webkit-scrollbar-thumb,.js-night-view ul::-webkit-scrollbar-thumb,.js-night-view pre::-webkit-scrollbar-thumb,.js-night-view code::-webkit-scrollbar-thumb{border-radius:2px;background-color:#3e3d42}.js-night-view::-webkit-scrollbar-thumb,.js-night-view #right-container::-webkit-scrollbar-thumb{border-radius:5px;background-color:#3e3d42}.js-night-view div::-webkit-scrollbar-corner,.js-night-view ul::-webkit-scrollbar-corner,.js-night-view pre::-webkit-scrollbar-corner,.js-night-view code::-webkit-scrollbar-corner{background:#3e3d42}.js-night-view strong{color:#3cae7c}.hljs,.js-night-view .hljs{display:block;overflow-x:auto;color:#abb2bf;background:#282c34}.js-night-view .hljs{background:#131313}.hljs-comment,.hljs-quote,.js-night-view .hljs-comment,.js-night-view .hljs-quote{color:#5c6370;font-style:italic}.hljs-doctag,.hljs-keyword,.hljs-formula,.js-night-view .hljs-doctag,.js-night-view .hljs-keyword,.js-night-view .hljs-formula{color:#c678dd}.hljs-section,.hljs-name,.hljs-selector-tag,.hljs-deletion,.hljs-subst,.js-night-view .hljs-section,.js-night-view .hljs-name,.js-night-view .hljs-selector-tag,.js-night-view .hljs-deletion,.js-night-view .hljs-subst{color:#e06c75}.hljs-literal,.js-night-view .hljs-literal{color:#56b6c2}.hljs-string,.hljs-regexp,.hljs-addition,.hljs-attribute,.hljs-meta-string,.js-night-view .hljs-string,.js-night-view .hljs-regexp,.js-night-view .hljs-addition,.js-night-view .hljs-attribute,.js-night-view .hljs-meta-string{color:#98c379}.hljs-built_in,.hljs-class .hljs-title,.js-night-view .hljs-built_in,.js-night-view .hljs-class .hljs-title{color:#e6c07b}.hljs-attr,.hljs-variable,.hljs-template-variable,.hljs-type,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-number,.js-night-view .hljs-attr,.js-night-view .hljs-variable,.js-night-view .hljs-template-variable,.js-night-view .hljs-type,.js-night-view .hljs-selector-class,.js-night-view .hljs-selector-attr,.js-night-view .hljs-selector-pseudo,.js-night-view .hljs-number{color:#d19a66}.hljs-symbol,.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-title,.js-night-view .hljs-symbol,.js-night-view .hljs-bullet,.js-night-view .hljs-link,.js-night-view .hljs-meta,.js-night-view .hljs-selector-id,.js-night-view .hljs-title{color:#61aeee}.hljs-emphasis,.js-night-view .hljs-emphasis{font-style:italic}.hljs-strong,.js-night-view .hljs-strong{font-weight:bold}.hljs-link,.js-night-view .hljs-link{text-decoration:underline}
+	</style>
+    <script>
+    /*
+|--------------------------------------------------------------------------
+| MarkdownPad2AutoCatalog
+| MarkdownPad2 编辑器导出 html 文件时自动生成左侧目录插件
+|--------------------------------------------------------------------------
+| 插件地址：
+| GitHub https://github.com/cayxc/MarkdownPad2AutoCatalog
+| Gitee  https://gitee.com/cayxc/MarkdownPad2AutoCatalog
+|
+*/
+!function(e){var t={};function n(o){if(t[o])return t[o].exports;var i=t[o]={i:o,l:!1,exports:{}};return e[o].call(i.exports,i,i.exports,n),i.l=!0,i.exports}n.m=e,n.c=t,n.d=function(e,t,o){n.o(e,t)||Object.defineProperty(e,t,{configurable:!1,enumerable:!0,get:o})},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="dist/",n(n.s=0)}([function(e,t,n){"use strict";var o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},i=function(){function e(e,t){for(var n=0;n<t.length;n++){var o=t[n];o.enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(e,o.key,o)}}return function(t,n,o){return n&&e(t.prototype,n),o&&e(t,o),t}}();var l=void 0,s=void 0,c=void 0,r=function(){function e(){var t=!(arguments.length>0&&void 0!==arguments[0])||arguments[0],n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:1,o=arguments.length>2&&void 0!==arguments[2]&&arguments[2];!function(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}(this,e),l=this,"boolean"!=typeof t&&(t=!0,console.error("传入参数类型有误，已按照默认配置执行，该参数类型为：Boolean")),"number"!=typeof n&&(n=1,console.error("传入参数类型有误，已按照默认配置执行，该参数类型为：Number")),"boolean"!=typeof o&&(o=!1,console.error("传入参数类型有误，已按照默认配置执行，该参数类型为：Boolean")),this.showIndex=t,this.indexStyle=n,this.openDark=o,s=n,c=t,null==document.querySelector("#left-container")&&this.replaceOld(),this.leftElement=document.querySelector("#left-container"),this.rightElement=document.querySelector("#right-container"),this.content=document.querySelector("#content"),this.topElement=document.querySelector(".top-container"),this.listElement=document.querySelector(".list-wrapper"),this.switchButton=document.querySelector("#switch-button"),this.switchListButton=document.querySelector(".catalog-button"),this.viewModeButton=document.querySelector(".mode"),this.allIcon=this.listElement.children[0].querySelectorAll("i"),this.allChildLevel=this.listElement.children[0].querySelectorAll("ul"),this.allCatalogElement=this.listElement.querySelectorAll("a"),this.showIndexEl=document.querySelector(".index"),this.allIndex=this.listElement.querySelectorAll("p"),this.haveChileLevel(),this.switchCatalog(),this.switchCatalogList(),this.switchParentCatalog(),this.singLeCatalogClick(),this.catalogTrack(),this.nightView(),this.showCatalogIndex(),this.choseCatalogStyle(),this.searchCatalog()}return i(e,[{key:"createContent",value:function(){var e=document.body.innerHTML;document.body.innerHTML="",document.body.style.overflow="hidden";var t=void 0;this.openDark?(document.body.className="js-night-view",t="icon-night"):(document.body.className="",t="icon-sun");var n=document.createElement("div"),o=document.createElement("div");n.id="left-container",o.id="right-container";var i=void 0;i=this.showIndex?'<i class="iconfont icon-indexA"></i>':'<i class="iconfont icon-indexB"></i>';for(var l="",s=1;s<=3;s++)this.indexStyle==s?l+='<li class="active" ><span>样式 '+s+"</span></li>":l+="<li><span>样式 "+s+"</span></li>";n.innerHTML='\n<div class="top-container">\n        <i class="catalog-button iconfont icon-catalogClose"></i>\n        <div class="search-container">\n            <input type="text" class="search" name="search" placeholder="输入关键字搜索 . . .">\n            <i class="search-icon iconfont icon-cancel"></i>\n        </div>\n        <div class="search-result"></div>\n    </div>\n    <div id="list-container">\n        <div class="list-wrapper">\n        </div>\n    </div>\n    <div class="bottom-container">\n        <div class="mode-container">\n            <div class="mode">\n                <i class="iconfont '+t+'"></i>\n            </div>\n            <div class="index">\n'+i+'            \n</div>\n            <div class="structure">\n                <i class="iconfont icon-process"></i>\n                <ul class="structure-child">\n'+l+'                </ul>\n            </div>\n            <div class="color" style="display: none;">\n                <i class="iconfont icon-color"></i>\n                <div class="color-child">\n                    <span>自定义颜色</span>\n                    <input type="color">\n                </div>\n            </div>\n        </div>\n    </div>\n   <div id="switch-button">\n   <i class="iconfont icon-arrLeft"></i>\n   </div>\n',o.innerHTML='\n<div id="content">\n'+e+"\n</div>\n</div>\n",document.body.appendChild(n),document.body.appendChild(o);this.noteTips("div",'\n<p class="note-tips">\n 本文档经过 MarkdownPad2AutoCatalog 目录生成插件转换生成&emsp;插件详情：<a href="https://github.com/cayxc/MarkdownPad2AutoCatalog" target="_blank"> GitHub地址</a>&emsp;<a href="https://gitee.com/cayxc/MarkdownPad2AutoCatalog" target="_blank">Gitee地址</a></p>\n',"content")}},{key:"changeTag",value:function(){var e=document.querySelectorAll("h1");if(e.length>1){for(var t=document.querySelectorAll("h2,h3,h4,h5"),n=1,o=e.length;n<o;n++){var i=document.createElement("h2");i.innerHTML=e[n].innerHTML,e[n].parentNode.replaceChild(i,e[n])}for(var l=0,s=t.length;l<s;l++){var c="h"+(parseInt(t[l].nodeName.slice(1))+1),r=document.createElement(c);r.innerHTML=t[l].innerHTML,t[l].parentNode.replaceChild(r,t[l])}}}},{key:"getTagNumber",value:function(e){if("object"==(void 0===e?"undefined":o(e)))return Number(e.nodeName.slice(1));console.error("getTagNumber() 调用时参数类型错误，必须是一个h标签的对象集合！")}},{key:"findStrFre",value:function(e,t){if("string"==typeof e&&"string"==typeof e){for(var n=e.indexOf(t),o=0;-1!==n;)o++,n=e.indexOf(t,n+1);return o}console.error("findStrFre() 调用时参数类型错误！")}},{key:"levelTagArr",value:function(e){if(e<1||e>5||"number"!=typeof e)console.error("levelTagArr() 调用时参数类型错误！");else{for(var t=document.querySelectorAll("h2,h3,h4,h5,h6"),n=[],o=[],i=[],l=[],s=[],c=0,r=t.length;c<r;c++){switch(this.findStrFre(t[c].id,".")){case 0:n.push(t[c]);break;case 1:o.push(t[c]);break;case 2:i.push(t[c]);break;case 3:l.push(t[c]);break;case 4:s.push(t[c]);break;default:return}}switch(e){case 1:return n;case 2:return o;case 3:return i;case 4:return l;case 5:return s;default:return}}}},{key:"setLevelNumber",value:function(e){if("object"==(void 0===e?"undefined":o(e))){var t=e.id;if(-1==t.lastIndexOf("."))return"level-"+(parseInt(t.slice(6))+1);var n=t.lastIndexOf(".");return t.slice(0,n)+"."+(parseInt(t.slice(n+1))+1)}console.error("setLevelNumber() 调用时参数类型错误，必须是一个h标签的对象集合！")}},{key:"setTagLevel",value:function(){this.changeTag();var e=document.querySelectorAll("h2,h3,h4,h5,h6"),t=e.length;if(0!=t){if(1==t&&(e[0].id="level-1"),t>1){e[0].id="level-1";var n=this.getTagNumber(e[1])-this.getTagNumber(e[0]);e[1].id=n<=0?this.setLevelNumber(e[0]):e[0].id+".1";for(var o=2,i=t-1;o<=i;o++){var l=this.getTagNumber(e[o]),s=this.getTagNumber(e[o-1]);if(l<s)for(var c=o-1;c>=0;c--){var r=this.getTagNumber(e[c])-l;if(1==r){if(!(c>0)){e[o].id=this.setLevelNumber(e[c]);break}if(this.getTagNumber(e[c-1])==l){e[o].id=this.setLevelNumber(e[c-1]);break}}if(0==r){e[o].id=this.setLevelNumber(e[c]);break}}l>s&&(e[o].id=e[o-1].id+".1"),l==s&&(e[o].id=this.setLevelNumber(e[o-1]))}}}else document.querySelector(".list-wrapper").innerHTML='<ul>\n<li style="text-align:center;color: #ccc;font-size:14px;">\n抱歉...<br/>文档中未发现 h1~h6 标签<br/>无法生成目录</p>\n</li>\n</ul>\n'}},{key:"noteTips",value:function(e,t,n){if("string"==typeof e&&"string"==typeof t&&"string"==typeof n){var o=document.createElement(e);o.innerHTML=t,document.getElementById(n).appendChild(o)}else console.error("noteTips() 调用时参数类型错误！")}},{key:"createCatalogue",value:function(){this.setTagLevel();var e=document.querySelector(".list-wrapper"),t=document.createElement("ul"),n=void 0;n=this.showIndex?"":"js-close";for(var o=1;o<=5;o++){var i=this.levelTagArr(o),l=i.length;if(0==l)break;if(1==o)for(var s=0,c=l;s<c;s++){var r=document.createElement("li");r.innerHTML='\n<a href="'+window.location.pathname+"#"+i[s].id+'" class='+i[s].id+'>\n<p class="'+n+'">'+i[s].id.slice(6)+"</p>\n<span>"+i[s].innerText+"</span></a>\n",t.appendChild(r),e.appendChild(t)}if(o>1)for(var a=0,u=l;a<u;a++)for(var d=this.levelTagArr(o-1),h=0,f=d.length;h<f;h++){if(i[a].id.slice(6,i[a].id.lastIndexOf("."))==d[h].id.slice(6)){var v=d[h].id,p=document.getElementsByClassName(v)[0].parentNode;p.setAttribute("class","parent-level");var m=document.createElement("li");m.innerHTML='\n<a href="'+window.location.pathname+"#"+i[a].id+'" class='+i[a].id+'>\n<p class="'+n+'">'+i[a].id.slice(6)+"</p>\n<span>"+i[a].innerText+"</span></a>\n";var g=p.querySelector("ul");if(null!==g)g.appendChild(m);else{(g=document.createElement("ul")).setAttribute("class","js-close"),g.appendChild(m),p.appendChild(g);var b=document.createElement("i"),y=void 0;switch(this.indexStyle){case 1:y="iconfont icon-closeA";break;case 2:y="iconfont icon-closeB";break;case 3:y="iconfont icon-closeC";break;default:y="iconfont icon-closeA"}b.setAttribute("class",y),p.insertBefore(b,p.childNodes[0])}break}}}}},{key:"replaceOld",value:function(){this.createContent(),this.createCatalogue(),document.querySelector(".list-wrapper").querySelector("li").classList.add("js-active")}},{key:"haveChileLevel",value:function(){this.listElement.querySelector(".parent-level")||(this.listElement.children[0].style.paddingLeft="0")}},{key:"switchCatalog",value:function(){var e=this.switchButton,t=this.leftElement,n=this.rightElement,o=0;e.onclick=function(){var e=document.documentElement.clientWidth;1==o?(this.children[0].setAttribute("class","iconfont icon-arrLeft"),t.style.width=e>750?"280px":"60%",t.classList.remove("js-switch-button"),n.style.padding="15px 15px 0 295px",o=0):(this.children[0].setAttribute("class","iconfont icon-closeC"),t.style.width="0",t.style.padding="0",t.classList.add("js-switch-button"),t.classList.add("js-switch-button"),n.style.padding="15px 15px 0",o=1)}}},{key:"switchCatalogList",value:function(){var e=this.switchListButton,t=this.topElement,n=this.allIcon,o=this.allChildLevel;e.onclick=function(){if(t.querySelector(".icon-catalogClose")){this.setAttribute("class","catalog-button iconfont icon-catalogOpen");for(var e=0,i=n.length;e<i;e++)1==s?n[e].setAttribute("class","iconfont icon-openA"):2==s?n[e].setAttribute("class","iconfont icon-openB"):n[e].setAttribute("class","iconfont icon-openC");for(var l=0,c=o.length;l<c;l++)o[l].setAttribute("class","js-open")}else{this.setAttribute("class","catalog-button iconfont icon-catalogClose");for(var r=0,a=n.length;r<a;r++)1==s?n[r].setAttribute("class","iconfont icon-closeA"):2==s?n[r].setAttribute("class","iconfont icon-closeB"):n[r].setAttribute("class","iconfont icon-closeC");for(var u=0,d=o.length;u<d;u++)o[u].setAttribute("class","js-close")}}}},{key:"switchParentCatalog",value:function(){for(var e=this.allIcon,t=this.topElement,n=document.querySelector(".list-wrapper").children[0].childNodes,o=[],i=function(i,l){e[i].onclick=function(){var l=void 0,c=void 0;switch(s){case 1:l="iconfont icon-closeA",c="iconfont icon-openA";break;case 2:l="iconfont icon-closeB",c="iconfont icon-openB";break;case 3:l="iconfont icon-closeC",c="iconfont icon-openC";break;default:l="iconfont icon-closeA",c="iconfont icon-openA"}"js-open"===e[i].nextElementSibling.nextElementSibling.getAttribute("class")?(e[i].setAttribute("class",l),e[i].nextElementSibling.nextElementSibling.setAttribute("class","js-close")):(e[i].setAttribute("class",c),e[i].nextElementSibling.nextElementSibling.setAttribute("class","js-open"));for(var r=0,a=n.length;r<a;r++){var u=n[r].querySelector("ul");o[r]=null==u?null:u.getAttribute("class")}o.includes("js-open")?t.children[0].setAttribute("class","catalog-button iconfont icon-catalogOpen"):t.children[0].setAttribute("class","catalog-button iconfont icon-catalogClose")}},l=0,c=e.length;l<c;l++)i(l)}},{key:"changeParentColor",value:function(e){if("object"!==(void 0===e?"undefined":o(e)))return console.error("changeParentColor() 参数必须是一个标签对象！"),!1;e.classList.add("js-active"),"LI"==e.parentElement.parentElement.nodeName&&this.changeParentColor(e.parentElement.parentElement)}},{key:"singLeCatalogClick",value:function(){for(var e=this.allCatalogElement,t=this.listElement,n=function(n,o){e[n].onclick=function(){for(var o=t.querySelectorAll(".js-active"),i=0,s=o.length;i<s;i++)o[i].classList.remove("js-active");this.parentElement.classList.add("js-active"),l.changeParentColor(e[n].parentElement)}},o=0,i=e.length;o<i;o++)n(o)}},{key:"catalogTrack",value:function(){for(var e=this.content.querySelectorAll("h2,h3,h4,h5,h6"),t=this.rightElement,n=this.listElement,o=this.allCatalogElement,i=[],s=0,c=e.length;s<c;s++)i.push(e[s].offsetTop-50);t.onscroll=function(){for(var e=t.scrollTop,s=0,c=i.length;s<c;s++)if(i[s]<=e){for(var r=n.querySelectorAll(".js-active"),a=0,u=r.length;a<u;a++)r[a].classList.remove("js-active");o[s].parentElement.classList.add("js-active"),l.changeParentColor(o[s].parentElement)}}}},{key:"nightView",value:function(){var e=void 0;e=null!=document.querySelector(".js-night-view");var t=this.viewModeButton,n=this.leftElement,o=this.switchButton;t.onclick=function(){e?(t.children[0].setAttribute("class","iconfont icon-sun"),document.body.classList.remove("js-night-view"),e=!1,n.style.borderColor="#ccc"):(t.children[0].setAttribute("class","iconfont icon-night"),document.body.classList.add("js-night-view"),e=!0,n.style.borderColor="#3E3D42")};var i=n.getAttribute("border-color");o.onmouseover=function(){n.style.borderColor="#3cae7c"},o.onmouseout=function(){n.style.borderColor=i}}},{key:"showCatalogIndex",value:function(){var e=c,t=this.allIndex;this.showIndexEl.onclick=function(){if(e){this.children[0].setAttribute("class","iconfont icon-indexB");for(var n=0,o=t.length;n<o;n++)t[n].classList.add("js-close");e=!1}else{this.children[0].setAttribute("class","iconfont icon-indexA");for(var i=0,l=t.length;i<l;i++)t[i].classList.remove("js-close");e=!0}}}},{key:"choseCatalogStyle",value:function(){for(var e=document.querySelector(".structure-child").querySelectorAll("li"),t=this.allIcon,n=function(n,o){e[n].onclick=function(){document.querySelector(".structure-child").querySelector(".active").removeAttribute("class"),e[n].setAttribute("class","active");for(var o=0,i=t.length;o<i;o++){var l=t[o].nextElementSibling.nextElementSibling.getAttribute("class");0==n?("js-close"==l?t[o].setAttribute("class","iconfont icon-closeA"):t[o].setAttribute("class","iconfont icon-openA"),s=1):1==n?("js-close"==l?t[o].setAttribute("class","iconfont icon-closeB"):t[o].setAttribute("class","iconfont icon-openB"),s=2):("js-close"==l?t[o].setAttribute("class","iconfont icon-closeC"):t[o].setAttribute("class","iconfont icon-openC"),s=3)}}},o=0,i=e.length;o<i;o++)n(o)}},{key:"comparison",value:function(e){if("string"!=typeof e)return console.error("comparison() 参数必须是一个字符串"),!1;e=e.toLowerCase();for(var t="",n=this.allCatalogElement,o=0,i=n.length;o<i;o++){if(-1!=n[o].innerText.replace(/\s+/g,"").toLowerCase().indexOf(e))t+='\n<a href="'+n[o].getAttribute("href")+'">'+n[o].innerText+"</a>\n"}return""==t&&(t='\n<i class="iconfont icon-search"></i>\n<span>目录中暂无相关搜索结果</span>\n<span>试试 Ctrl+F  在全文档搜索</span>\n'),t}},{key:"searchCatalog",value:function(){var e=document.querySelector(".search"),t=document.querySelector(".search-result"),n=e.nextElementSibling;e.onfocus=function(){e.onkeyup=function(){var o=e.value.replace(/\s+/g,"");o?function(){t.style.display="block",n.style.display="block";var e=l.comparison(o);t.innerHTML=e;for(var i=t.querySelectorAll("a"),s=function(e,t){i[e].onclick=function(){i[e].classList.add("js-active")}},c=0,r=i.length;c<r;c++)s(c)}():(t.style.display="none",n.style.display="none")}},n.onclick=function(){this.style.display="none",t.style.display="none",e.value=""}}}]),e}();window.onload=function(){new r}}]);
+	</script>
+</head>
+<body><h2 id='说明资源均来自酷安午夜神'>说明：资源均来自<a target="_blank" rel="noopener" href='http://www.coolapk.com/u/462071'>【酷安】午夜神</a></h2>
+<blockquote><h1 id='蓝奏云网盘统一密码ojbk'>蓝奏云网盘统一密码：<code>OJBK</code></h1>
+</blockquote>
+<blockquote><h2 id='更新合集-点击查看-请我喝瓶可乐支持一下打赏-tg电报频道ojbk2333'>更新合集 ：<a target="_blank" rel="noopener" href='https://flowery-espadrille-695.notion.site/7e52fb27108d4b7099aa6245a4d1d9eb'>点击查看</a> 请我喝瓶可乐支持一下：<a target="_blank" rel="noopener" href='https://www.yuque.com/docs/share/77e2d958-c82f-4b6b-bceb-14313c60f4ec'>打赏</a> T.G电报频道：<a target="_blank" rel="noopener" href='http://t.me/OJBK2333'>OJBK2333</a></h2>
+</blockquote>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684066382-4c6399fe-aa01-4d2a-a16f-0f1676b21219.png" referrerpolicy="no-referrer" alt="20220220142638Aicy775.png"></p>
+<h3 id='magisk面具稳定版'>【MAGISK】面具稳定版</h3>
+<p>卡刷包和管理器版本号最好一致，以免出现不必要的问题。</p>
+<p>面具卡刷包： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7gexg'>点击查看</a></p>
+<p>面具管理器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7gcij'>点击查看</a></p>
+<h3 id='magisk面具金丝雀版canary'>【MAGISK】面具金丝雀版(Canary)</h3>
+<p>卡刷包和管理器版本号最好一致，以免出现不必要的问题。</p>
+<p>金丝雀版管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v4q5yb'>点击查看</a></p>
+<p>金丝雀版卡刷包：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v2ob6f'>点击查看</a></p>
+<p>Shamiko(隐藏MagiskHide)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v9d09i'>点击查看</a></p>
+<h3 id='magisk面具阿尔法版alpha'>【MAGISK】面具阿尔法版(alpha)</h3>
+<p>作者：vvb2060，基于金丝雀版本制作，加入其它新特性</p>
+<p>卡刷包和管理器版本号最好一致，以免出现不必要的问题。</p>
+<p>阿尔法版管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uotzpe'>点击查看</a></p>
+<p>阿尔法版卡刷包：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uotyle'>点击查看</a></p>
+<p>Shamiko(隐藏MagiskHide)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v9d09i'>点击查看</a></p>
+<h3 id='magisk面具管理器德尔塔版delta'>【MAGISK】面具管理器德尔塔版(Delta)</h3>
+<p>作者：magisk分支由HUSKYDG大神制作</p>
+<p>内置救砖保护、核心模式开关、多开应用hide、未加密F2FS优化、模块挂载增强</p>
+<p>卡刷包和管理器版本号最好一致，以免出现不必要的问题。</p>
+<p>德尔塔版管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w6mtza'>点击查看</a></p>
+<p>德尔塔版卡刷包：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w6mwle'>点击查看</a></p>
+<h3 id='magisk面具lite版'>【MAGISK】面具lite版</h3>
+<p>发布之初只作为root管理器，不提供对模块的支持。不过后面的版本作者又恢复了模块支持，白名单模式的Magisk，所有应用程序默认隐藏，只有勾选的应用程序才能获得超级用户权限</p>
+<p>卡刷包和管理器版本号最好一致，以免出现不必要的问题。</p>
+<p>lite版面具管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8k94d'>点击查看</a></p>
+<p>lite版面具卡刷包：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8kaje'>点击查看</a></p>
+<p>面具自定义通道：<a target="_blank" rel="noopener" href='https://magisk.topjohnwu.com/zh.html'>点击查看</a></p>
+<p>面具字体： 筑紫𝐀丸： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vsaycb'>点击查看</a></p>
+<p>面具模块合集：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8npfc'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684095580-70dde6dd-63db-4d91-bd90-c61db0369dd0.png" referrerpolicy="no-referrer" alt="2022-02-02_14-27-30776778.png"></p>
+<h3 id='lsposed框架-安卓81-12'>【LSPOSED】框架-(安卓8.1-12)</h3>
+<p>Riru模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7gi9g'>点击查看</a></p>
+<p>LSPosed正式版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uiewlg'>点击查看</a></p>
+<p>LSPosed测试版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7rzoj'>点击查看</a></p>
+<p>安卓8.0可用版本：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uu1hva'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684125246-56d97448-16de-4e64-bd0e-27f6f51c2080.png" referrerpolicy="no-referrer" alt="IMG_20220220_144538780.png"></p>
+<h3 id='edxposed框架-安卓80-11'>【EDXPOSED】框架-(安卓8.0-11)</h3>
+<p>EDxposed管理器(分支美化版)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tml4pc'>点击查看</a></p>
+<p>EdXposed管理器(官方正式版)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u12ibi'>点击查看</a></p>
+<p>EdXposed管理器(官方先行版)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u12i4b'>点击查看</a></p>
+<p>Riru模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7gi9g'>点击查看</a></p>
+<p>Edxposed阿尔法(S版)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7gnpc'>点击查看</a></p>
+<p>Edxposed阿尔法(Y版)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7gq8d'>点击查看</a></p>
+<p>Edxposed金丝雀(S版和Y版)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7h7ah'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684150054-452fb424-76a1-4b97-ad97-5a2d709448f4.png" referrerpolicy="no-referrer" alt="IMG_20220220_150153781783.png"></p>
+<h3 id='dreamland梦境框架-安卓70-12'>【DREAMLAND】梦境框架-(安卓7.0-12)</h3>
+<p>Riru模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7gi9g'>点击查看</a></p>
+<p>梦境管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uicrmf'>点击查看</a></p>
+<p>magisk-dreamland：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uicrad'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684168058-e9ebdd55-0eb7-4d71-8782-67caca3fb79c.png" referrerpolicy="no-referrer" alt="IMG_20220220_152839785.png"></p>
+<h3 id='免rootxposed框架'>免【ROOT】XPOSED框架</h3>
+<p>天鉴：(输入0000长按D，右上点造访-得到密码)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uu09lg'>点击查看</a></p>
+<p>太极：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uicmcf'>点击查看</a></p>
+<p>应用转生： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u1wq0f'>点击查看</a></p>
+<p>VirtualXposed： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u1wqgb'>点击查看</a></p>
+<p>SandVXposed：<a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/io.virtualapp.sandvxposed64'>点击查看</a></p>
+<p>神之手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uucuad'>点击查看</a></p>
+<p>VMOS Pro(虚拟大师)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00um855g'>点击查看</a></p>
+<p>SlimVXP：<a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/io.virtualapp.sandvxposed'>点击查看</a></p>
+<p>BlackBox黑盒：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vkf9ub'>点击查看</a></p>
+<p>LSPatch稳定版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vvd25i'>点击查看</a></p>
+<p>LSPatch测试版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vvd26j'>点击查看</a></p>
+<p>X开：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vvyaxa'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684205009-036b842b-a1c5-4b01-8f3e-e8ae337c2786.png" referrerpolicy="no-referrer" alt="IMG_20220220_161114788.png"></p>
+<h3 id='xp模块-抖音模块'>【XP模块】 抖音模块</h3>
+<p>抖音助手： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00um3gmj'>点击查看</a></p>
+<p>抖音+： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u6mqej'>点击查看</a></p>
+<p>抖音伴侣： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00t5ypuj'>点击查看</a></p>
+<p>AdAway： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmbgh'>点击查看</a></p>
+<p>要你命三千： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tw4jhc'>点击查看</a></p>
+<p>诺诺诺嗯： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u5t5wh'>点击查看</a></p>
+<p>HookBox：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uembsb'>点击查看</a></p>
+<p>长江七号：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tuzfsd'>点击查看</a></p>
+<p>小鸽子(视频无水印下载)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vs6o1g'>点击查看</a></p>
+<p>Destiny(原LanFeng)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vz18ef'>点击查看</a></p>
+<p>逗音小能手：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w5xqqd'>点击查看</a></p>
+<p>VodkaMod：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w9rwcd'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645685134600-d6f02fdc-90d4-4bfd-ac43-1b085d8cf2eb.png" referrerpolicy="no-referrer" alt="IMG_20220220_162211790.png"></p>
+<h3 id='xp模块-蚂蚁森林模块'>【XP模块】 蚂蚁森林模块</h3>
+<p>蚂蚁森林🌱自动浇水、收能量、喂鸡、签到…</p>
+<p>水晶版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmwvi'>点击查看</a></p>
+<p>秋风版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tphmhg'>点击查看</a></p>
+<p>蜡笔小新版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7fmyj'>点击查看</a></p>
+<p>雨季版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v77tpa'>点击查看</a></p>
+<h3 id='xp模块隐藏应用列表'>【XP模块】隐藏应用列表</h3>
+<p>该模块提供了一些隐藏方式用于隐藏某些指定的软件从而不被检测到</p>
+<p>隐藏应用列表：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ujaeti'>点击查看</a></p>
+<p>Riru-Hide My Applist：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00unry9e'>点击查看</a></p>
+<p>应用列表检测器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uwpoeb'>点击查看</a></p>
+<p>隐秘空间：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vbys7c'>点击查看</a></p>
+<h3 id='xp模块-核心破解'>【XP模块】 核心破解</h3>
+<p>允许降级安装应用，禁用软件包管理器签名验证，禁用APK签名验证</p>
+<p>核心破解3.8(安卓10-12)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u2j7xc'>点击查看</a></p>
+<p>核心破解2.2(安卓9-10)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iQS6Gjdk6zi'>点击查看</a></p>
+<p>核心破解2.1(安卓8.x)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iq7ZYjdk6ve'>点击查看</a></p>
+<p>核心破解2.0(安卓7.x)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ic56Ljgow5g'>点击查看</a></p>
+<p>核心破解1.4(安卓4.x-6.x)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iaKd1jdk6pi'>点击查看</a></p>
+<h3 id='xp模块-应用管理模块'>【XP模块】 应用管理模块</h3>
+<p>应用管理： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ibNpugt6sih'>点击查看</a></p>
+<p>阻止运行： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tjjhaf'>点击查看</a></p>
+<p>绿色守护： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tw4f3e'>点击查看</a></p>
+<p>应用控制器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ili9Rgt6rib'>点击查看</a></p>
+<p>Thanox(灭霸)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ucbm7i'>点击查看</a></p>
+<p>DeepSleep(控制应用后台唤醒)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vsg6vi'>点击查看</a></p>
+<p>自动墓碑后台：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vxosna'>点击查看</a></p>
+<p>NoActive(墓碑)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vxorzg'>点击查看</a></p>
+<p>MiTlite(墓碑模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00vzbpng'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/28383100/1665474497630-933238d5-786d-4b95-939a-095bbb9dd631.jpeg" referrerpolicy="no-referrer" alt="DMINI_8aef76ad581e7105.jpg"></p>
+<h3 id='xp模块指纹支付模块'>【XP模块】指纹支付模块</h3>
+<p>xposed版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00twbp5i'>点击查看</a></p>
+<p>面具Riru版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00utf13e'>点击查看</a></p>
+<p>面具Zygisk版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v90psj'>点击查看</a></p>
+<h3 id='xp模块取消对话框'>【XP模块】取消对话框</h3>
+<p>对话框取消： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iHJzpl4nyuh'>点击查看</a></p>
+<p>对话框取消beta版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iX6Cvl4nzjc'>点击查看</a></p>
+<p>对话框取消修复版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vnmxqb'>点击查看</a></p>
+<p>Dia(对话框取消新版）<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wa5mkf'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665474525878-d8598990-f7d0-42e8-abc1-c71a03660653.png" referrerpolicy="no-referrer" alt="32ad15b25c69eeee2883.png"></p>
+<h3 id='xp模块隐私保护模块'>【XP模块】隐私保护模块</h3>
+<p>我的隐私：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iIw5Foda0sf'>点击查看</a></p>
+<p>X隐私保护： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uanape'>点击查看</a></p>
+<p>XPrivacyLua： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9131a'>点击查看</a></p>
+<p>放开我的剪贴板： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/cn.nlifew.clipmgr'>点击查看</a></p>
+<h3 id='xp模块-应用破解模块可以白嫖部分软件和单机游戏'>【XP模块】 应用破解模块：可以白嫖部分软件和单机游戏</h3>
+<p>vipHook： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tym8ed'>点击查看</a></p>
+<p>GodVip：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uk8e4h'>点击查看</a></p>
+<p>BuyTool幸运内购： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ttwnti'>点击查看</a></p>
+<p>BuyTool使用介绍：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/15028248?shareKey=ODA0MjEyNzUyOTEyNjBjZGIyNGM~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.2.4-beta6'>点击查看</a></p>
+<p>天帝VIP(破解应用VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usgjyd'>点击查看</a></p>
+<p>道道道(破解应用VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usyqdc'>点击查看</a></p>
+<p>Jasi破解器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uzhq8h'>点击查看</a></p>
+<p>simpleVip：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uzhqcb'>点击查看</a></p>
+<p>mHook管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v4u35e'>点击查看</a></p>
+<p>esXplorer(破解ES文件管理器VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v629ih'>点击查看</a></p>
+<p>Hook模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v635of'>点击查看</a></p>
+<p>KModule(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usnx1g'>点击查看</a></p>
+<p>WuWei(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vbmg4f'>点击查看</a></p>
+<p>野草集：(破解部分小说软件VIP)<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00vgt8di'>点击查看</a></p>
+<p>酷通hook：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vpfnej'>点击查看</a></p>
+<p>河马视频等通杀模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vpfnbg'>点击查看</a></p>
+<p>大师兄影视模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vpfn6b'>点击查看</a></p>
+<p>飞瓜影视等通杀模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vpfn8d'>点击查看</a></p>
+<p>小草视频通杀模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vpfn5a'>点击查看</a></p>
+<p>Fuck VIP(破解部分应用VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vta7qj'>点击查看</a></p>
+<p>Fuck光速虚拟机XP模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vta7cf'>点击查看</a></p>
+<p>JsHook(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vv5shi'>点击查看</a></p>
+<p>Vip Kill(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w27pvi'>点击查看</a></p>
+<p>UnlockVIP(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w27q1e'>点击查看</a></p>
+<p>Hooker(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w27q2f'>点击查看</a></p>
+<p>FCHook(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w3s2ab'>点击查看</a></p>
+<p>VMOS Pro++(虚拟机破解模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w3s2ef'>点击查看</a></p>
+<p>Fuck VMOS Pro(虚拟机破解模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w5qhde'>点击查看</a></p>
+<p>Fuck MP3提取转换器：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w5qiwj'>点击查看</a></p>
+<p>VIP for Yuki(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w7tped'>点击查看</a></p>
+<p>Hook Vip(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wba9mf'>点击查看</a></p>
+<p>FakeFL(Fake Location模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wcp60b'>点击查看</a></p>
+<p>尊享会员服务(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wdbdgb'>点击查看</a></p>
+<p>VIP模块(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wj7b5a'>点击查看</a></p>
+<p>MyApp(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wl69mb'>点击查看</a></p>
+<p>幸运破解器：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00u06nfa'>点击查看</a></p>
+<p>MyHook(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wo5r4d'>点击查看</a></p>
+<p>破晓(破解部分软件VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wpd4qb'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/28378617/1653780186605-d5548c9e-8095-4231-adf2-1bb6fcd185d3.jpeg" referrerpolicy="no-referrer" alt="IMG_20220221_2130196276.png"></p>
+<h3 id='xp模块酷我音乐模块'>【XP模块】酷我音乐模块</h3>
+<p>酷我酷狗VIP：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ujhxza'>点击查看</a></p>
+<p>酷我增强插件：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vpfnfa'>点击查看</a></p>
+<p>酷我VIP：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vlet8j'>点击查看</a></p>
+<p>酷我增强：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vnxgqf'>点击查看</a></p>
+<p>爱酷我：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wg5cij'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665474547401-5728caa9-5075-471d-9aee-4e5de9538249.png" referrerpolicy="no-referrer" alt="IMG_20221011_1538532889.png"></p>
+<h3 id='xp模块-微信增强模块合集'>【XP模块】 微信增强模块合集</h3>
+<p>V++： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iFHt3n8udfe'>点击查看</a></p>
+<p>女娲石：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/tp/iva8Uuedfli'>点击查看</a></p>
+<p>微运动：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/tp/iyGE2ghdg5c'>点击查看</a></p>
+<p>微X模块 ： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tujq4j'>点击查看</a></p>
+<p>微信分组： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7165a'>点击查看</a></p>
+<p>微信群发： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7164j'>点击查看</a></p>
+<p>微信密友： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u716hc'>点击查看</a></p>
+<p>微信增强： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7311i'>点击查看</a></p>
+<p>微信斗图： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7163i'>点击查看</a></p>
+<p>畅玩微信： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u757wh'>点击查看</a></p>
+<p>企业助手： <a target="_blank" rel="noopener" href='https://nalankang.lanzoui.com/b00u716mh'>点击查看</a></p>
+<p>微信学英语：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00udu6vg'>点击查看</a></p>
+<p>TSBattery(省电模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00utqtkf'>点击查看</a></p>
+<p>模拟微信摇一摇：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ibL7Xp64jze'>点击查看</a></p>
+<p>MDWechat(微信美化)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7166b'>点击查看</a></p>
+<p>去TM的微信信息流：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/tp/iTrToghd41g'>点击查看</a></p>
+<p>我不需要确认：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v82usf'>点击查看</a></p>
+<p>QQCleaner Lite(轻量版本的瘦身模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vrngib'>点击查看</a></p>
+<p>QQ瘦身模块(QQ/TIM/微信缓存垃圾清理)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tszuzi'>点击查看</a></p>
+<p>禁用微信签名验证：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vv5k1e'>点击查看</a></p>
+<p>飞哥传说(企业微信抢红包)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w6ipyb'>点击查看</a></p>
+<p>企微小打手(接管企业微信定位服务)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w7hg4h'>点击查看</a></p>
+<p>WeChat Pad(开启手机和平板同时登陆入口)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w7lwud'>点击查看</a></p>
+<p>微信群消息助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w9a34j'>点击查看</a></p>
+<p>微信糊脸：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wj4cng'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688580197-83842c38-780e-4037-a0e3-e2c7a32c9fa5.png" referrerpolicy="no-referrer" alt="20220220194848Aicy-1798.png"></p>
+<h3 id='xp模块-qq增强模块合集'>【XP模块】 QQ增强模块合集</h3>
+<p>QN(增强模块)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsdawd'>点击查看</a></p>
+<p>QX(增强模块)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u0c8md'>点击查看</a></p>
+<p>绿豆(增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u74h3c'>点击查看</a></p>
+<p>QScript脚本模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u94zfe'>点击查看</a></p>
+<p>H.entai.Q(增强模块)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u73uof'>点击查看</a></p>
+<p>ColorQQ2(主题美化)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9sekh'>点击查看</a></p>
+<p>XAutoDaily(自动签到)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00udwffg'>点击查看</a></p>
+<p>花Q： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tg274j'>点击查看</a></p>
+<p>QQ省电模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9clng'>点击查看</a></p>
+<p>QQ净化：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/id15ckb'>点击查看</a></p>
+<p>QQ瘦身(缓存清理垃圾)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tszuzi'>点击查看</a></p>
+<p>TSBattery(省电模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00utqtkf'>点击查看</a></p>
+<p>QAuxiliary(增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vc3gha'>点击查看</a></p>
+<p>QQCleaner Lite(轻量版本的瘦身模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vrngib'>点击查看</a></p>
+<p>QTool(QQ增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vlucje'>点击查看</a></p>
+<p>小彩豆(QQ辅助模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w5akcf'>点击查看</a></p>
+<p>QQ复读机：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00u9f1yf'>点击查看</a></p>
+<p>TL_ing(QQ增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wg5fod'>点击查看</a></p>
+<h3 id='xp模块-系统增强模块'>【XP模块】 系统增强模块</h3>
+<p>Xp快译： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/tp/ipnxCn6pb3i'>点击查看</a></p>
+<p>全局复制： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iNjcbh1ex8d'>点击查看</a></p>
+<p>强制截图： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iDOdis7llzc'>点击查看</a></p>
+<p>指纹支付： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00twbp5i'>点击查看</a></p>
+<p>锁定通知： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/me.singleneuron.locknotification'>点击查看</a></p>
+<p>文本自定义： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/izfDpdcai0d'>点击查看</a></p>
+<p>锤子BigBang： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.forfan.bigbang.coolapk'>点击查看</a></p>
+<p>伪装WiFi连接： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tvgw6f'>点击查看</a></p>
+<p>移除截屏延迟： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/isXezjesckd'>点击查看</a></p>
+<p>无障碍-Daemon： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iRz8qim5hda'>点击查看</a></p>
+<p>米窗-全局小窗： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.sunshine.freeform'>点击查看</a></p>
+<p>原生音乐通知栏： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmf3i'>点击查</a></p>
+<p>短信验证码提取： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uaxssf'>点击查看</a></p>
+<p>导航栏扩展模块： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.egguncle.xposednavigationbar'>点击查看</a></p>
+<p>xSuite(修改应用图标)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/i49dhgt6zij'>点击查看</a></p>
+<p>Xposed edge por(边缘手势)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tvgqqj'>点击查看</a></p>
+<p>爱玩机-安装器接管：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ujhxvg'>点击查看</a></p>
+<p>阻止更新：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iALHhqxzrzg'>点击查看</a></p>
+<p>Flat Style Bar Indicators(状态栏美化)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ursodi'>点击查看</a></p>
+<p>剪贴板过滤器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uxukdc'>点击查看</a></p>
+<p>状态栏歌词：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uzgujg'>点击查看</a></p>
+<p>音量级别+：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/irAP4p31ida'>点击查看</a></p>
+<p>非残(假装自己没有使用无障碍服务)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v7ufmb'>点击查看</a></p>
+<p>SkyOlin助手(分屏)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vbffoh'>点击查看</a></p>
+<p>隐秘空间：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vbys7c'>点击查看</a></p>
+<p>自由屏幕旋转：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vj5gif'>点击查看</a></p>
+<p>拒绝强制亮度：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vj5gli'>点击查看</a></p>
+<p>设置应用全屏：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vloi6b'>点击查看</a></p>
+<p>进程锁：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vtzfkb'>点击查看</a></p>
+<p>Force Dark-强制深色模式：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wj4cjc'>点击查看</a></p>
+<p>NekoSMS-垃圾短信拦截器：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wltcpa'>点击查看</a></p>
+<p>HideZoomWindow(从截图和录屏中隐藏小窗)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wmlqtg'>点击查看</a></p>
+<h3 id='xp模块伪装设备信息'>【XP模块】伪装设备信息</h3>
+<p>应用伪装： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9amhe'>点击查看</a></p>
+<p>应用变量： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iFeH6h1ehxc'>点击查看</a></p>
+<p>爱玩机-应用伪装：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uj175i'>点击查看</a></p>
+<p>手机查看器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v891id'>点击查看</a></p>
+<p>Android Faker：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v88yxa'>点击查看</a></p>
+<p>设备ID更改器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v894xg'>点击查看</a></p>
+<p>Guise-应用变量：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wihi9a'>点击查看</a></p>
+<h3 id='xp模块-存储重定向'>【XP模块】 存储重定向</h3>
+<p>重定向应用程序在sdcard目录下生成的文件夹和文件的路径，防止应用在sdcard目录下乱拉屎</p>
+<p>存储重定向：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/irdVpqq85gb'>点击查看</a></p>
+<p>XInternalSD： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/i44wggt6jni'>点击查看</a></p>
+<p>LT NoLitter重制版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iP7gb03mea1g'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688605586-8c20ca94-fe9f-4104-9b96-371cc29658d8.png" referrerpolicy="no-referrer" alt="IMG_20220221_153614822.png"></p>
+<h3 id='xp模块-强国助手模块'>【XP模块】 强国助手模块</h3>
+<p>模拟点击，解放双手，学生党必备的软件 积分执行、顺序执行、挑战答题、每周答题、双人对战、四人对战</p>
+<p>霸王强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00up7oda'>点击查看</a></p>
+<p>旺仔强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00unbzje'>点击查看</a></p>
+<p>校雷锋强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00umdy0f'>点击查看</a></p>
+<p>阿超强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00umdy1g'>点击查看</a></p>
+<p>高级强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00umdy4j'>点击查看</a></p>
+<p>学习机强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00umdxyd'>点击查看</a></p>
+<p>自动学习强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00upocjg'>点击查看</a></p>
+<p>时光强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uqe7fi'>点击查看</a></p>
+<p>学习助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00utuj4d'>点击查看</a></p>
+<p>AI强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v0v3sj'>点击查看</a></p>
+<p>一键强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v44m8f'>点击查看</a></p>
+<p>科技强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v9lzsf'>点击查看</a></p>
+<p>强国能手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ve2g7g'>点击查看</a></p>
+<p>学习一下强国：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vg2urc'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665474793176-7da5d3e4-83f6-47f8-872c-0052550fd0cf.png" referrerpolicy="no-referrer" alt="IMG_20221011_1552062891.png"></p>
+<h3 id='xp模块-虚拟定位'>【XP模块】 虚拟定位</h3>
+<p>可以模拟一个虚假的地理位置</p>
+<p>模拟位置： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tvpb1i'>点击查看</a></p>
+<p>lataclysm： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/izZ3xljlaqh'>点击查看</a></p>
+<p>X定位保护：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ut32sd'>点击查看</a></p>
+<p>对话框取消beta版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iX6Cvl4nzjc'>点击查看</a></p>
+<p>虚拟定位：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8fv7i'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665474805853-5c46db57-210f-49f0-9be0-cf8341006906.png" referrerpolicy="no-referrer" alt="aca24bc17f1092792882.png"></p>
+<h3 id='xp模块-翻译模块'>【XP模块】 翻译模块</h3>
+<p>把app内的文字翻译成中文</p>
+<p>AllTrans： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tngrof'>点击查看</a></p>
+<p>AllTrans使用教程：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/23531453?shareKey=M2Y0OTg1ZTRmMDk2NjE2N2QwYjY~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.2.3'>点击查看</a></p>
+<p>微信学英语：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00udu6vg'>点击查看</a></p>
+<p>Xp快译： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/tp/ipnxCn6pb3i'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688642526-db7e3fde-daf3-4470-8ef6-177ee91df9df.png" referrerpolicy="no-referrer" alt="20220221084110Aicy799.png"></p>
+<h3 id='xp模块-miui系统专用模块合集'>【XP模块】 MIUI系统专用模块合集</h3>
+<p>XMiTools： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.tianma.tweaks.miui'>点击查看</a></p>
+<p>小米净化： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tyatha'>点击查看</a></p>
+<p>MIUI全局高帧： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ud00wb'>点击查看</a></p>
+<p>Miui12双排状态栏： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.lz.teemo'>点击查看</a></p>
+<p>解锁MIUI键盘优化： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ud00la'>点击查看</a></p>
+<p>MiuiHome桌面增强模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v28daf'>点击查看</a></p>
+<p>ChiMi(MIUI增强模块)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00t6n0ti'>点击查看</a></p>
+<p>CustoMIUIzer(MIUI专用)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tyaawb'>点击查看</a></p>
+<p>MIUI双开限制解除模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9zola'>点击查看</a></p>
+<p>移除系统相机拍照声音模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uhrdud'>点击查看</a></p>
+<p>爱玩机-MIUI安装器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ujhxte'>点击查看</a></p>
+<p>爱玩机-MIUI高级设置：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ujhxqb'>点击查看</a></p>
+<p>淘米水(MIUI去广吿模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ukbeab'>点击查看</a></p>
+<p>不要多管闲事(干掉无障碍十秒等待)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ulw6ch'>点击查看</a></p>
+<p>MIUI强调色：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ulw97a'>点击查看</a></p>
+<p>MIUltra(MIUI12.5扩展)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usk4wf'>点击查看</a></p>
+<p>小米运动Hook：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uz62yd'>点击查看</a></p>
+<p>状态栏歌词：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uzgujg'>点击查看</a></p>
+<p>小米push增强模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uzzc2f'>点击查看</a></p>
+<p>隐藏MIUI勇者标识：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v2o9li'>点击查看</a></p>
+<p>AppLock(防止特定应用被侧滑杀死或一键清理)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v4oaej'>点击查看</a></p>
+<p>MiCode(小米浏览器增强模块)：<a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/xyz.kymirai.micode'>点击查看</a></p>
+<p>独立显秒：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v7h4ni'>点击查看</a></p>
+<p>MIUI原生通知图标：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v9rnab'>点击查看</a></p>
+<p>粗粮：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v9zykf'>点击查看</a></p>
+<p>小米翻译+：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00va0h4d'>点击查看</a></p>
+<p>Miui时间显秒：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vbja3a'>点击查看</a></p>
+<p>解锁小米妙：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vbja1i'>点击查看</a></p>
+<p>WooBoxForMIUI(MIUI13系统扩展)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vc2p2d'>点击查看</a></p>
+<p>解锁MIUI+：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vczkba'>点击查看</a></p>
+<p>不许卡米：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vcvnha'>点击查看</a></p>
+<p>Miui主题破解：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00velxyj'>点击查看</a></p>
+<p>MIUI工具箱：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vg2u8d'>点击查看</a></p>
+<p>AppLock(防止应用被侧滑杀死或一键清理)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vi88ne'>点击查看</a></p>
+<p>MIUI性能救星：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vkcyng'>点击查看</a></p>
+<p>MaxFreeForm(解除MIUI13多小窗限制)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vlohgf'>点击查看</a></p>
+<p>MiuiMediaEditor(MIUI相册增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vn4gfa'>点击查看</a></p>
+<p>MIUI遮罩进化：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vm6mxa'>点击查看</a></p>
+<p>MIUI修改原生安装器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vqp23i'>点击查看</a></p>
+<p>墨•桌：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vqp1uj'>点击查看</a></p>
+<p>AutoNFC：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vqs8wb'>点击查看</a></p>
+<p>MIUI QOL(系统增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vu6xof'>点击查看</a></p>
+<p>MIUI录屏进化：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vvd0de'>点击查看</a></p>
+<p>小米不妙·享：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vz17di'>点击查看</a></p>
+<p>MiTlite(墓碑模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vzbpng'>点击查看</a></p>
+<p>MIUI安装器进化：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w3euqb'>点击查看</a></p>
+<p>Miller(MUI功耗优化模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w3s25g'>点击查看</a></p>
+<p>你这运营消息根本就全都是广告吧：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w65i3a'>点击查看</a></p>
+<p>MIUI更新进化：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w6ze6j'>点击查看</a></p>
+<p>WINI-悬浮通知模糊模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w8v9bc'>点击查看</a></p>
+<p>5G开关：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w9p9bc'>点击查看</a></p>
+<p>MIUI通知修复：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wcl3gf'>点击查看</a></p>
+<p>BetterMiuiExpress(负一屏直接显示快递信息)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w38glg'>点击查看</a></p>
+<p>传送门增强：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wmgeqb'>点击查看</a></p>
+<p>MIUI自由小窗X-MiuiFreeFormX：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00x2h8ef'>点击查看</a></p>
+<p>Cemiuiler-MIUI系统增强模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00x2h8pg'>点击查看</a>
+StarVoyager(系统增强)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00x34bfc'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688660960-5e8aec0f-d972-4c90-a18a-4c4625b9502e.png" referrerpolicy="no-referrer" alt="IMG_20220221_085858801.png"></p>
+<h3 id='xp模块-flyme系统专用模块合集'>【XP模块】 Flyme系统专用模块合集</h3>
+<p>FXposed： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tg28vc'>点击查看</a></p>
+<p>Flyme助手： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00t637bc'>点击查看</a></p>
+<p>MZXPT(魅族工具箱)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tw4g4b'>点击查看</a></p>
+<p>flyme工具箱：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uyi65e'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1650627329960-aca65bfb-12c0-4fa2-9742-fafe2fb97319.png" referrerpolicy="no-referrer" alt="IMG_20220422_1925241225.png"></p>
+<h3 id='xp模块-coloros系统专用模块合集'>【XP模块】 ColorOS系统专用模块合集</h3>
+<p>万物： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.bangtu.opaod'>点击查看</a></p>
+<p>一加拓展： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.davidking.optools'>点击查看</a></p>
+<p>一加氢氧主题： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.jizhi.optheme'>点击查看</a></p>
+<p>一加指纹拓展： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.davidking.xposed.opfingerprint'>点击查看</a></p>
+<p>一加状态栏网速： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/me.seasonyuu.xposed.networkspeedindicator.h2os'>点击查看</a></p>
+<p>ColorOSTool系统增强模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00utw46h'>点击查看</a></p>
+<p>WooBox For ColorOS：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vkrz0j'>点击查看</a></p>
+<p>ColorOS通知图标增强：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vdjeeh'>点击查看</a></p>
+<p>LuckyTool：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vxpfyj'>点击查看</a></p>
+<p>ColorOS6(系统增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wmwf9g'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688696153-dd365348-3c5a-4e6b-8151-3868755589a8.png" referrerpolicy="no-referrer" alt="20220221091208Aicy804.png"></p>
+<h3 id='xp模块-网易云音乐模块合集'>【XP模块】 网易云音乐模块合集</h3>
+<p>云村清洁工： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/in7DElr49xe'>点击查看</a></p>
+<p>杜比大喇叭β版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9dtif'>点击查看</a></p>
+<p>UnblockMusic Pro： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9dtwj'>点击查看</a></p>
+<p>网易云音乐插件： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iFEzDgt5bri'>点击查看</a></p>
+<p>专辑封面禁旋转： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9ezsh'>点击查看</a></p>
+<p>网易叼毛云：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ve8qyj'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688713086-526de8e7-3535-43a8-bf66-4e4e2ad8e217.png" referrerpolicy="no-referrer" alt="IMG_20220221_113124805.png"></p>
+<h3 id='xp模块-微博净化模块'>【XP模块】 微博净化模块</h3>
+<p>微博+： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8r25i'>点击查看</a></p>
+<p>AdAway： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmbgh'>点击查看</a></p>
+<p>微博助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ullbyd'>点击查看</a></p>
+<p>这真轻享(微博轻享版/极速版去广告)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wcl3nc'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688766260-3642e12e-1087-4a32-a019-0457d2f06874.png" referrerpolicy="no-referrer" alt="20220221141156Aicy809828.png"></p>
+<h3 id='xp模块-百度贴吧净化模块'>【XP模块】 百度贴吧净化模块</h3>
+<p>百度贴吧伴侣： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u0l13g'>点击查看</a></p>
+<p>百度贴吧助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uecoyf'>点击查看</a></p>
+<p>帖吧TS(帖吧净化)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tzwihc'>点击查看</a></p>
+<p>联璧模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmwqd'>点击查看</a></p>
+<h3 id='xp模块-建行工行模块忽略root检测模块'>【XP模块】 建行工行模块忽略ROOT检测模块</h3>
+<p>建行杀手： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/insPchnubsj'>点击查看</a></p>
+<p>建行忽略root修复版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ifQ6Chnuekj'>点击查看</a></p>
+<p>BankRX(工行建行)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iQH4Nhpiuni'>点击查看</a></p>
+<p>无间道(农行、工行、反诈中心屏蔽root检测)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8j57g'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688782799-953972e0-5766-494b-ab04-c4fe68aea327.png" referrerpolicy="no-referrer" alt="20220221142448Aicy812.png"></p>
+<h3 id='xp模块-哔哩哔哩增强模块'>【XP模块】 哔哩哔哩增强模块</h3>
+<p>哔哩漫游： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ttp0kj'>点击查看</a></p>
+<p>哔哩补丁： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/igGPQlrcepe'>点击查看</a></p>
+<p>联璧模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmwqd'>点击查看</a></p>
+<p>FuckBilibiliVote(去你妈b站视频弹窗)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vq2xsb'>点击查看</a></p>
+<p>不要竖屏：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vtzfja'>点击查看</a></p>
+<p>哔哩漫游X：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wa2dib'>点击查看</a></p>
+<p>b站会员画质：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wpxvhe'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/28378617/1653780211920-61ed5321-f824-4c6b-9159-335049490f14.jpeg" referrerpolicy="no-referrer" alt="IMG_20220529_0705171935.png"></p>
+<p>番茄小说VIP破解模块</p>
+<p>番茄vip模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vpo0wd'>点击查看</a></p>
+<p>番茄小说hookvip模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vpo0ub'>点击查看</a></p>
+<p>番茄通杀：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wo5r9i'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665474829873-a9c61d18-4455-41ea-940a-d7e081a997e1.png" referrerpolicy="no-referrer" alt="S21011-144657422890.png"></p>
+<h3 id='xp模块-运动修改模块'>【XP模块】 运动修改模块</h3>
+<p>修改步数，让你装逼不费劲！</p>
+<p>运动修改器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00to5bpa'>点击查看</a></p>
+<p>运动加速器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8tp0d'>点击查看</a></p>
+<p>运动模拟器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iAVp7lridyd'>点击查看</a></p>
+<h3 id='xp模块状态栏变色'>【XP模块】状态栏变色</h3>
+<p>微聚旧版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iXbImrfwr7i'>点击查看</a></p>
+<p>微聚新版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/apk/io.ikws4.weiju'>点击查看</a></p>
+<p>PerfectColorBar： <a target="_blank" rel="noopener" href='https://www.lanzoui.com/irKuHgt707e'>点击查看</a></p>
+<p>自动沉浸式状态栏：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iWnM5stybvi'>点击查看</a></p>
+<h3 id='xp模块-隐藏root和xposed不被检测到'>【XP模块】 隐藏Root和xposed不被检测到</h3>
+<p>RootCloak(隐藏Root)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iD7LLjks9ab'>点击查看</a></p>
+<p>zuper(隐藏Xposed和Root)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/i2iuJgvqumf'>点击查看</a></p>
+<p>隐藏应用列表：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ujaeti'>点击查看</a></p>
+<p>XposedHider(隐藏Xposed)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v4pjpa'>点击查看</a></p>
+<p>SudoHide(隐藏Xposed)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v4pjkf'>点击查看</a></p>
+<h3 id='xp模块过vpn检测'>【XP模块】过VPN检测</h3>
+<p>NoVPNDetect：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wckerg'>点击查看</a></p>
+<p>过VPN检测：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00vsaxud'>点击查看</a></p>
+<p>算法助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00umtq4h'>点击查看</a></p>
+<p>Dialbox：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wa5mkf'>点击查看</a></p>
+<h3 id='xp模块-重力工具箱'>【XP模块】 重力工具箱</h3>
+<p>GravityBox[安卓8] ： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9xezc'>点击查看</a></p>
+<p>GravityBox[安卓9] ： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9xf7a'>点击查看</a></p>
+<p>GravityBox[安卓10] ： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9xfdg'>点击查看</a></p>
+<p>GravityBox[安卓11] ： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9xffi'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665474861529-72197278-63c3-4852-8dfe-a67464e4b237.png" referrerpolicy="no-referrer" alt="IMG_20221011_1519312886.png"></p>
+<h3 id='xp模块去广吿模块'>【XP模块】去广吿模块</h3>
+<p>AD快消：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7asef'>点击查看</a></p>
+<p>大圣净化： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8uhij'>点击查看</a></p>
+<p>大圣净化-Magisk版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v95m8b'>点击查看</a></p>
+<p>悟空加速： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8uhja'>点击查看</a></p>
+<p>AdBlocker： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tf5ive'>点击查看</a></p>
+<p>联璧模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmwqd'>点击查看</a></p>
+<p>闲鱼助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00un0t1e'>点击查看</a></p>
+<p>电报广告拦截器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v0v12b'>点击查看</a></p>
+<p>电报去广告模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzoui.com/b00v0v15e'>点击查看</a></p>
+<p>推特去广告模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vauqdg'>点击查看</a></p>
+<p>Twitter Ad Eater(推特广告吞噬者)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wa9rze'>点击查看</a></p>
+<p>FuckCoolapkR-酷安去广告模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vio87e'>点击查看</a></p>
+<p>VideoAdKill(腾讯优酷爱奇艺虎牙去广告模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wgwabc'>点击查看</a></p>
+<p>ZuiYouHook最右去广告模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wl69ba'>点击查看</a></p>
+<p>去你大爷的广告：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wnf7wf'>点击查看</a></p>
+<p>FuckAD-去他妈的广告：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00woi3gj'>点击查看</a></p>
+<p>开屏小助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wwnzcf'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688802737-2f5cc10f-ed7e-4c36-95e2-0eb6b542c8ae.png" referrerpolicy="no-referrer" alt="IMG_20220221_143749814.png"></p>
+<h3 id='xp模块-皮皮虾快手模块合集'>【XP模块】 皮皮虾快手模块合集</h3>
+<p>快手+： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8r2cf'>点击查看</a></p>
+<p>AdAway： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmbgh'>点击查看</a></p>
+<p>诺诺诺嗯： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u5t5wh'>点击查看</a></p>
+<p>皮皮虾助手： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tvgswh'>点击查看</a></p>
+<p>要你命三千： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tw4jhc'>点击查看</a></p>
+<p>皮皮搞笑助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w4s6lc'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665474878074-bf671f9b-a0c5-4a14-8693-156a09fe273e.png" referrerpolicy="no-referrer" alt="S21011-150318612888.png"></p>
+<h3 id='xp模块小红书模块'>【XP模块】小红书模块</h3>
+<p>AdAway： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tsmbgh'>点击查看</a></p>
+<p>X小红书： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u9cabi'>点击查看</a></p>
+<p>小红书+： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ucb8pc'>点击查看</a></p>
+<p>红薯猪手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vdhfxa'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665475004419-3f9f8f48-ae47-4ad1-8e1c-d3a32ceb2417.png" referrerpolicy="no-referrer" alt="IMG_20221011_1555412892.png"></p>
+<h3 id='xp模块钉钉模块'>【XP模块】钉钉模块</h3>
+<p>钉钉打卡： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tw4j8d'>点击查看</a></p>
+<p>钉钉助手： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ty6xeh'>点击查看</a></p>
+<p>钉钉反撤回神器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vn4gqb'>点击查看</a></p>
+<p>钉钉增强：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vs1a1c'>点击查看</a></p>
+<p>锤锤：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w65hri'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665475020601-618b5320-95d1-46d7-99e7-7bbe3c25993a.png" referrerpolicy="no-referrer" alt="IMG_20221011_1524592887.png"></p>
+<h3 id='xp模块telegram电报模块'>【XP模块】telegram电报模块</h3>
+<p>TMoe(电报增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vudbyf'>点击查看</a></p>
+<p>电报广告拦截器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v0v12b'>点击查看</a></p>
+<p>电报去广告模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzoui.com/b00v0v15e'>点击查看</a></p>
+<p>TeleSpeed(提升电报下载速度)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00waav1a'>点击查看</a></p>
+<p>Telegram Helper(电报增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00waaxxe'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1665851893603-51a85d7a-6335-4901-b215-33cf503e01ed.png" referrerpolicy="no-referrer" alt="IMG_20221016_0037052984.png"></p>
+<h3 id='xp模块youtube油管模块'>【XP模块】YouTube油管模块</h3>
+<p>YouTube AdAway：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w6v3tc'>点击查看</a></p>
+<p>油管助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8om6b'>点击查看</a></p>
+<h3 id='xp模块其他模块合集'>【XP模块】其他模块合集</h3>
+<p>算法助手(Hook工具)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00umtq4h'>点击查看</a></p>
+<p>上帝模式：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00um9gha'>点击查看</a></p>
+<p>天帝模式：<a target="_blank" rel="noopener" href='https://nalankang.lanzoui.com/b00vio9qj'>点击查看</a></p>
+<p>定时清理(清理文件和文件夹)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/i62C4ilqksd'>点击查看</a></p>
+<p>xposed黑名单(禁用Xposed)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iuJe2h1efgd'>点击查看</a></p>
+<p>AllTrans(应用内翻译)：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/23531453?shareKey=MjE0Mjk1NTEyNDRkNjBjZGMyZDY~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.2.4-beta6'>点击查看</a></p>
+<p>去伱大爷的内置浏览器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iJLBYiqgs6j'>点击查看</a></p>
+<p>一键分享(视频无水印)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u71tcf'>点击查看</a></p>
+<p>知了(知乎增强模块)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tt2w1e'>点击查看</a></p>
+<p>交通12123屏蔽root检测 ： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/id38v2h'>点击查看</a></p>
+<p>面具hide增强模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iMmPihuq4wj'>点击查看</a></p>
+<p>你才长按复制访问：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tys3qb'>点击查看</a></p>
+<p>导航栏扩展模块： <a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/com.egguncle.xposednavigationbar'>点击查看</a></p>
+<p>今日头条+： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8r28b'>点击查看</a></p>
+<p>假装分享： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iOJ09lmdg4b'>点击查看</a></p>
+<p>Magisk hide(面具增强模块)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iMmPihuq4wj'>点击查看</a></p>
+<p>太极更新宝(太极阴专用)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/itU7Fkwxova'>点击查看</a></p>
+<p>一个让你感觉卧曹卧曹的模块： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ii7Hzgt6zsj'>点击查看</a></p>
+<p>应用设置重生版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7e3ni'>点击查看</a></p>
+<p>飞书助手： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tx61rc'>点击查看</a></p>
+<p>数据过滤： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ubhcpg'>点击查看</a></p>
+<p>阿里系Xposed反检测： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ikPQ5n2y3pc'>点击查看</a></p>
+<p>淘饭饭(自动领券)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ue7nlg'>点击查看</a></p>
+<p>拼夕夕免拼助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u6yczi'>点击查看</a></p>
+<p>京东历史价格：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/irbo1pi4lve'>点击查看</a></p>
+<p>陌陌群发模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uli2mj'>点击查看</a></p>
+<p>DDex脱壳(XP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vcvtla'>点击查看</a></p>
+<p>DJkwaiching(破解音乐VIP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tytm1g'>点击查看</a></p>
+<p>Blued模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00up6lzi'>点击查看</a></p>
+<p>王者人生wifi信息劫持：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ib4F3s4471e'>点击查看</a></p>
+<p>油管模块合集： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8om6b'>点击查看</a></p>
+<p>小草影视助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00utv70d'>点击查看</a></p>
+<p>VCAM(虚拟摄像头)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uud7hi'>点击查看</a></p>
+<p>动漫之家增强模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uwt6zi'>点击查看</a></p>
+<p>Xposed Tool(一键内置XP模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vsay9i'>点击查看</a></p>
+<p>支付宝装X模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v730da'>点击查看</a></p>
+<p>钱迹自动记账插件：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v7fjjc'>点击查看</a></p>
+<p>AnyDebug(修改应用布局参数)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoui.com/b00vhv14f'>点击查看</a></p>
+<p>过VPN检测：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vsaxud'>点击查看</a></p>
+<p>Fuck云注入(禁止云注入弹窗)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vta76j'>点击查看</a></p>
+<p>QDReadHook：(起点阅读增强模块)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vu7rof'>点击查看</a></p>
+<p>Q音助手(QQ音乐净化)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w6v3oh'>点击查看</a></p>
+<p>下载重定向模块-(调用ADM下载器)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00whqfvc'>点击查看</a></p>
+<p>不要锁区(解除区域限制)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wwnzwf'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1666082020197-fff33936-4de2-4a26-9bb2-3235284584e5.png" referrerpolicy="no-referrer" alt="IMG_20221018_1629403004.png"></p>
+<h3 id='app搞机助手'>【APP】搞机助手</h3>
+<p>玩机必备软件</p>
+<p>搞机助手(情非得已)原创作者：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uks1sd'>点击查看</a></p>
+<p>搞机重制版(快播内部工作人员)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tugduj'>点击查看</a></p>
+<p>搞机助手2(抱抱猫People11)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uks28j'>点击查看</a></p>
+<p>搞机客(情非得已)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00woxkmh'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/28383100/1666081394943-b9406a9b-855a-44ae-8abb-cb426064bde8.png" referrerpolicy="no-referrer" alt="IMG_20221018_1604323003.png"></p>
+<h3 id='appssh终端工具'>【APP】SSH终端工具</h3>
+<p>JuiceSSH：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w76gvi'>点击查看</a></p>
+<p>ConnectBot：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w76gif'>点击查看</a></p>
+<p>Primitive ftpd：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w76gre'>点击查看</a></p>
+<p>SSH-Termius：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w76gwj'>点击查看</a></p>
+<h3 id='app第三方油管纯净无广吿'>【APP】第三方油管纯净无广吿</h3>
+<p>Vanced：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ujce7i'>点击查看</a></p>
+<p>𝐏𝐮𝐫𝐞𝐓𝐮𝐛𝐞𝐫：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usb4ba'>点击查看</a></p>
+<p>LibreTube：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vsd3ta'>点击查看</a></p>
+<p>YouTube_ReVanced：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00vvp3hi'>点击查看</a></p>
+<h3 id='app第三方𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦电报'>【APP】第三方𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦电报</h3>
+<p>𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦魔法版(内置代理)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8earg'>点击查看</a></p>
+<p>Nekogram X(内置代理)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w5nh7a'>点击查看</a></p>
+<p>Nagram(内置代理)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w5nila'>点击查看</a></p>
+<p>Nekogram(内置代理)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w5nguh'>点击查看</a></p>
+<p>GuGugram(需要梯子)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00w5nj2h'>点击查看</a></p>
+<p>Telegraph(内置代理-功能超多)：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wgwa1c'>点击查看</a></p>
+<h3 id='app文件管理器'>【APP】文件管理器</h3>
+<p>RE文件管理器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u85wja'>点击查看</a></p>
+<p>ES文件管理器会员版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u2b9pi'>点击查看</a></p>
+<p>NP管理器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7565e'>点击查看</a></p>
+<p>ES管理器美化版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uwhrob'>点击查看</a></p>
+<p>RS文件管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v3lsaj'>点击查看</a></p>
+<p>SE文件管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v55w4d'>点击查看</a></p>
+<h3 id='app终端模拟器'>【APP】终端模拟器</h3>
+<p>Termux：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v67ype'>点击查看</a></p>
+<p>ZeroTermux：<a target="_blank" rel="noopener" href='https://cloud.189.cn/t/aqam2uZNJ7ny'>点击查看</a></p>
+<p>UTermux：<a target="_blank" rel="noopener" href='https://cloud.189.cn/t/YbmqaiqYniIn'>点击查看</a></p>
+<p>终端模拟器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v67zte'>点击查看</a></p>
+<p>Ansole：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v681pc'>点击查看</a></p>
+<p>NeoTerm：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v681xa'>点击查看</a></p>
+<h3 id='appjava模拟器'>【APP】JAVA模拟器</h3>
+<p>J2ME Loader：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vaursh'>点击查看</a></p>
+<p>Retro2ME：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vaurhg'>点击查看</a></p>
+<h3 id='app加固app脱壳工具'>【APP】加固app脱壳工具</h3>
+<p>BlackDex：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00um84kf'>点击查看</a></p>
+<p>fdex2：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iBdENqkpmng'>点击查看</a></p>
+<p>微脱壳：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iFfamqkpmoh'>点击查看</a></p>
+<p>反射大师：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v2j5ud'>点击查看</a></p>
+<p>DDex脱壳(XP)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vcvtla'>点击查看</a></p>
+<p>DITOR-脱壳工具：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vdbu8j'>点击查看</a></p>
+<h3 id='app备份工具'>【APP】备份工具</h3>
+<p>钛备份： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u85wmd'>点击查看</a></p>
+<p>超级备份：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v82qxg'>点击查看</a></p>
+<h3 id='app在线影视播放软件'>【APP】在线影视播放软件</h3>
+<p>星球视频：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v2atfi'>点击查看</a></p>
+<p>美剧鸟：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v2assf'>点击查看</a></p>
+<p>电视家3.0：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uvarti'>点击查看</a></p>
+<p>小草影视：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uvtgkh'>点击查看</a></p>
+<p>美剧星球：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uoxh3i'>点击查看</a></p>
+<h3 id='appapk编辑工具'>【APP】Apk编辑工具</h3>
+<p>Apk编辑器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06q0d'>点击查看</a></p>
+<p>APK Editor R3：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uud6lg'>点击查看</a></p>
+<p>Apktool M(Apk反编译)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uud6kf'>点击查看</a></p>
+<p>NP管理器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7565e'>点击查看</a></p>
+<p>MT管理器：<a target="_blank" rel="noopener" href='https://www.coolapk.com/apk/bin.mt.plus'>点击查看</a></p>
+<h3 id='app应用冻结'>【APP】应用冻结</h3>
+<p>雹：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vjgpxa'>点击查看</a></p>
+<p>冰箱：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vjgpsf'>点击查看</a></p>
+<h3 id='app下载工具'>【APP】下载工具</h3>
+<p>ADM(下载工具)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06sid'>点击查看</a></p>
+<p>IDM+(下载工具)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06sje'>点击查看</a></p>
+<p>闪电下载： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06tlc'>点击查看</a></p>
+<p>种子磁力播放器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uunmef'>点击查看</a></p>
+<p>种子磁力下载器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uunmja'>点击查看</a></p>
+<p>磁力云高级版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ur7bhi'>点击查看</a></p>
+<p>tTorrent种子下载器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uz3ikh'>点击查看</a></p>
+<p>懒熊下载：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uz3ibi'>点击查看</a></p>
+<p>浩克下载：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u79kob'>点击查看</a></p>
+<p>极速下载：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v2asli'>点击查看</a></p>
+<p>冰冰磁力下载器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v2w6yb'>点击查看</a></p>
+<p>离线云：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u79khe'>点击查看</a></p>
+<p>迅雷不限速版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8e9zi'>点击查看</a></p>
+<p>快鸟下载：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8mdhc'>点击查看</a></p>
+<p>全能下载：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00va46tg'>点击查看</a></p>
+<p>火箭BT下载器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vb309a'>点击查看</a></p>
+<p>游隼下载器：<a target="_blank" rel="noopener" href='https://nalankang.lanzoui.com/b00vfsk6b'>点击查看</a></p>
+<p>下载工具箱：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w3f0gh'>点击查看</a></p>
+<p>悟空下载：<a target="_blank" rel="noopener" href='https://nalankang.lanzoum.com/b00wm50id'>点击查看</a></p>
+<h3 id='apphishoot2i带壳截图'>【APP】HiShoot2i(带壳截图)</h3>
+<p>HiShoot2i汉化版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ihKhIu8yelc'>点击查看</a></p>
+<p>精选模板(蓝奏云)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00tvr6yd'>点击查看</a></p>
+<p>其他模板(百度云)： <a target="_blank" rel="noopener" href='https://pan.baidu.com/s/1ZmToxkG__uLjFFZfep8eeg'>点击查看</a>提取码:h368</p>
+<p>模板和预览图：<a target="_blank" rel="noopener" href='https://flowery-espadrille-695.notion.site/c58a90b54e7c487286906e604e1bb0dd'>点击查看</a></p>
+<p>一些模板预览图：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/29231338?shareKey=ZDg5NGQ3NmVhZjY3NjExOTNiOTQ~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.2.3'>点击查看</a></p>
+<h3 id='app短信伪造'>【APP】短信伪造</h3>
+<p>一键添加收发短信到本地,可以任意设置收到任何人给你发来的短信，效果跟正常短信一模一样。应用仅供娱乐！</p>
+<p>伪造短信消息：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iAmMrsm3l1a'>点击查看</a></p>
+<h3 id='app抓包工具'>【APP】抓包工具</h3>
+<p>HttpCanary(小黄鸟)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usn91c'>点击查看</a></p>
+<p>Wicap(安卓嗅探器)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usn8te'>点击查看</a></p>
+<p>Packet Capture(免root抓包)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usn8yj'>点击查看</a></p>
+<p>抓包精灵：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vb69jc'>点击查看</a></p>
+<h3 id='appmacrodroid智能触发器'>【APP】MacroDroid智能触发器</h3>
+<p>一款任务自动化配置工具，只有你想不到，没有他做不到的，功能强大，类似Tasker和xposed edge</p>
+<p>MacroDroid：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usijgh'>点击查看</a></p>
+<p>辅助模块：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usiqle'>点击查看</a></p>
+<p>自动发邮件插件：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00utusqj'>点击查看</a></p>
+<h3 id='yx怀旧小游戏'>【YX】怀旧小游戏</h3>
+<p>植物大战僵尸1代合集： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uu2nsj'>点击查看</a></p>
+<p>植物大战僵尸北美汉化版： <a target="_blank" rel="noopener" href='https://cloud.189.cn/t/faUjeaA3Evqm'>点击查看</a></p>
+<p>孤胆枪手合集：<a target="_blank" rel="noopener" href='https://cloud.189.cn/t/BvmeMv3qe22e'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688833808-f9b29d99-7d90-429b-b410-92ca1814adc8.png" referrerpolicy="no-referrer" alt="IMG_20220220_152839785821.png"></p>
+<h3 id='app应用分享'>【APP】应用分享</h3>
+<p>UC浏览器(去广吿版)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uotlmh'>点击查看</a></p>
+<p>QQ浏览器(去广吿版)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usnkpc'>点击率就</a></p>
+<p>血轮眼(禁用服务)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ucdbhe'>点击查看</a></p>
+<p>网速测试(网速测试)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06nch'>点击查看</a></p>
+<p>温控拜拜(删除温控)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/i8YXOig4oob'>点击查看</a></p>
+<p>镜像助手(提取、刷入REC)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/ilViPijcsna'>点击查看</a></p>
+<p>TWRP(下载刷入TWRP)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06y2d'>点击查看</a></p>
+<p>Cellular-Pro(频段锁定)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06pna'>点击查看</a></p>
+<p>APK编辑器： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06q0d'>点击查看</a></p>
+<p>微软远程桌面： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06qib'>点击查看</a></p>
+<p>歌词适配(网易云音乐下载)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06rdc'>点击查看</a></p>
+<p>快图浏览器(魔改版)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06uhe'>点击查看</a></p>
+<p>联通营业厅(去广吿)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uq36md'>点击查看</a></p>
+<p>黑阈(阻止运行)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u71uwb'>点击查看</a></p>
+<p>碘酒编辑器(气泡碘酒)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/is0vQkt9fsb'>点击查看</a></p>
+<p>云闪付(谷歌版)： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u71vte'>点击查看</a></p>
+<p>Nova桌面： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7cmgd'>点击查看</a></p>
+<p>钛备份： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u85wmd'>点击查看</a></p>
+<p>山寨版谷歌应用商店： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u7hyze'>点击查看</a></p>
+<p>Aptoide开源应用商店：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uuddhe'>点击查看</a></p>
+<p>第三方油管(无广吿)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ujce7i'>点击查看</a></p>
+<p>照片编辑器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uo1fkb'>点击查看</a></p>
+<p>虚拟相机(可以用相册里面的照片假装拍照)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00up86ej'>点击查看</a></p>
+<p>飞聊(中文版电报)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00upq0bi'>点击查看</a></p>
+<p>𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦(电报魔法版自带踢子)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8earg'>点击查看</a></p>
+<p>NekogramX(第三方电报自带踢子)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vcrn1a'>点击查看</a></p>
+<p>王者特权获取：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iDWRSs44eni'>点击查看</a></p>
+<p>SD女佣高级版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ur7bgh'>点击查看</a></p>
+<p>傲软抠图会员版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ur7bja'>点击查看</a></p>
+<p>神仙自动救砖：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00urjnza'>点击查看</a></p>
+<p>MX_Player视频播放器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00ursr2f'>点击查看</a></p>
+<p>蓝云(第三方蓝奏云)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b083z1nsj'>点击查看</a></p>
+<p>迅游手游加速器(会员版)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00usp1kf'>点击查看</a></p>
+<p>腾讯手游加速器(魔改版)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8m6zi'>点击查看</a></p>
+<p>See第三方微博：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uumzmf'>点击查看</a></p>
+<p>HiGo谷歌框架安装器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uuxmbc'>点击查看</a></p>
+<p>状态栏歌词-高级版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uwt8xi'>点击率就</a></p>
+<p>李跳跳(自动跳过广告)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v0m18d'>点击查看</a></p>
+<p>一指禅(自动跳过广告)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v8ktla'>点击查看</a></p>
+<p>AetherSX2(PS2游戏模拟器)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v3iwqb'>点击查看</a></p>
+<p>幸运破解器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u06nfa'>点击查看</a></p>
+<p>Andronix(手机上安装Linux系统)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v6275c'>点击查看</a></p>
+<p>屏幕翻译：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v75tyh'>点击查看</a></p>
+<p>MIUI下载器：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v7ef5i'>点击查看</a></p>
+<p>两仪(安卓容器)：<a target="_blank" rel="noopener" href='https://cloud.189.cn/t/7BvEJ32qINNr'>点击查看</a></p>
+<p>𝐓𝐢𝐤𝐓𝐨𝐤(抖音国际版)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vcpf8h'>点击查看</a></p>
+<p>风车动漫魔改版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v9ce9g'>点击查看</a></p>
+<p>蓝云(蓝奏云第三方客户端)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00v9m5dg'>点击查看</a></p>
+<p>面具root权限开关：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vaasbg'>点击查看</a></p>
+<p>爱美化(手机主题制作)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vauqib'>点击查看</a></p>
+<p>甲壳虫ADB助手：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vd9rde'>点击查看</a></p>
+<p>AccubatteryPro-精准电量：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vdbnwb'>点击查看</a></p>
+<p>清浊(垃圾清理)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vgt4hi'>点击查看</a></p>
+<p>绿去广告(自动跳过开屏广告)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vijqoj'>点击查看</a></p>
+<p>酷安去广告版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vjm8ja'>点击查看</a></p>
+<p>Momo(检测工具)：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00vno8mj'>点击查看</a></p>
+<p>宇宙工具箱：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00w27qfi'>点击查看</a></p>
+<h3 id='wx微x主题'>【WX】微X主题</h3>
+<p>微信主题美化，主题功能需要打赏才能开通</p>
+<p>微X主题〈带土与琳〉：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/24107117?shareKey=YzMwOGQ2YjljNTM4NjAwMWFkOWY~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.0-rc2'>点击查看</a></p>
+<p>微X主题〈Q版蜘蛛侠〉： <a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/24230601?shareKey=YzBiYjhjMGQzMDgyNjAwMWFkOWQ~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.0-rc2'>点击查看</a></p>
+<p>微X主题〈漫〉： <a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/24081843?shareKey=MTMwNTdjMjI0ZmQ5NjAwMWFkYzA~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.0-rc2'>点击查看</a></p>
+<p>微X主题〈无题〉： <a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/22527630?shareKey=NTJiZTYyN2IzZmIwNjAwMWFlYTY~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.0-rc2'>点击查看</a></p>
+<h3 id='wj玩机技巧'>【WJ】玩机技巧</h3>
+<p>手机端制作卡刷包线刷包教程： <a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/22941669?shareKey=NTVmMWViYjgwMzE0NWZiMTQ3M2E~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.0-beta2'>点击查看</a></p>
+<p>魅族16T纯手机端解锁教程：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/22941669?shareKey=NGFmMDkxYTVjZWZhNjAyOWU3Zjg~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.0.1'>点击查看</a></p>
+<p>防止手机文件误删教程： <a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/21508157?shareKey=MzU5ZTE1ZmRmNmIyNWY3YWM3NGU~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_10.5.3'>点击查看</a></p>
+<p>魅族手机原厂线刷包： <a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/21349572?shareKey=Zjg0ZWY1ZTc2YTA4NWZjOGMwNTY~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.0-beta2'>点击查看</a></p>
+<p>自定义应用名称教程： <a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/15346519?shareKey=N2VhYWJjZDU5ZThmNWY3YWM3ZGQ~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_10.5.3'>点击查看</a></p>
+<p>UC浏览器去除启动页广告教程： <a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/21502013?shareKey=MzUxNGMyN2NhMDU3NWY3YWM3NGU~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_10.5.3'>点击查看</a></p>
+<p>SELinux未处于严格模式的解决方法：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/24620582?shareKey=NGVmMmIzNWU1ZTg3NjA0NWM5NmU~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.0.3-beta1'>点击查看</a></p>
+<p>禁用App启动页广告教程：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/27731488?shareKey=ZTZhYzFiZTEwODVmNjBjNzFjMjY~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.2'>点击查看</a></p>
+<p>把英文软件翻译成中文：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/23531453?shareKey=M2Y0OTg1ZTRmMDk2NjE2N2QwYjY~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.2.3'>点击查看</a></p>
+<p>修补boot安装面具教程：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/32152531?shareKey=ODdjZGFlMzAzNTliNjFiYThkNDk~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.2.3'>点击查看</a></p>
+<p>面具开启Zygisk后隐藏root教程：<a target="_blank" rel="noopener" href='https://www.coolapk.com/feed/33457333?shareKey=MjNiOGZlZDI2MzNjNjIwNTQxOTY~&amp;shareUid=462071&amp;shareFrom=com.coolapk.market_11.2.3'>点击查看</a></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645692639120-3984d35a-e077-4954-a112-5eaa3b5a4cba.png" referrerpolicy="no-referrer" alt="2022_0114_124720-1820.png"></p>
+<h3 id='pc端搞机工具合集'>【PC】端搞机工具合集</h3>
+<p>秋之盒： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8myid'>点击查看</a></p>
+<p>ADB工具： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8mv1i'>点击查看</a></p>
+<p>高通全系列驱动：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iPzC9lgltwj'>点击查看</a></p>
+<p>ADB&amp;FastBoot驱动：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iIk1Xlgltsf'>点击查看</a></p>
+<p>搞机工具箱：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8nnqb'>点击查看</a></p>
+<p>搞机助手PC版： <a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00u8muij'>点击查看</a></p>
+<p>搞机助手CMD命令版：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/b00uugykb'>点击查看</a></p>
+<p>小米线刷工具售后版： <a target="_blank" rel="noopener" href='https://cloud.189.cn/t/e6Vra2jAfuae'>点击查看</a></p>
+<p>高通9008线刷工具：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iPvjYp8qw2d'>点击查看</a></p>
+<p>百度云不限速下载工具：<a target="_blank" rel="noopener" href='https://nalankang.lanzouo.com/iD2Ldxkw51g'>点击查看</a></p>
+<p>&nbsp;</p>
+</body>
+</html>
