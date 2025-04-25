@@ -3,8 +3,7 @@
 <body><h2 id='说明资源均来自酷安午夜神'>说明：资源均来自<a target="_blank" rel="noopener" href='http://www.coolapk.com/u/462071'>【酷安】午夜神</a></h2>
 <blockquote><h1 id='蓝奏云网盘统一密码ojbk'>蓝奏云网盘统一密码：<code>OJBK</code></h1>
 </blockquote>
-<blockquote><h2 id='更新合集-点击查看-请我喝瓶可乐支持一下打赏-tg电报频道ojbk2333'>更新合集 ：<a target="_blank" rel="noopener" href='https://flowery-espadrille-695.notion.site/7e52fb27108d4b7099aa6245a4d1d9eb'>点击查看</a> 请我喝瓶可乐支持一下：<a target="_blank" rel="noopener" href='https://www.yuque.com/docs/share/77e2d958-c82f-4b6b-bceb-14313c60f4ec'>打赏</a> T.G电报频道：<a target="_blank" rel="noopener" href='http://t.me/OJBK2333'>OJBK2333</a></h2>
-</blockquote>
+
 <p>&nbsp;</p>
 <p><img src="https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684066382-4c6399fe-aa01-4d2a-a16f-0f1676b21219.png" referrerpolicy="no-referrer" alt="20220220142638Aicy775.png"></p>
 <h3 id='magisk面具稳定版'>【MAGISK】面具稳定版</h3>
